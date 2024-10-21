@@ -13,13 +13,22 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
-            "level": 0,
-            "time": 0,
+            "price": 8,
+            "level": 1,
+            "time": 3.6,
             "cooker": 0,
-            "ingredients": [],
-            "tags": [],
-            "conflicts": []
+            "ingredients": [
+                10
+            ],
+            "tags": [
+                -2,
+                2,
+                3,
+                32
+            ],
+            "conflicts": [
+                6
+            ]
         },
         "links": null
     },
