@@ -1,13 +1,13 @@
 [
     {
         "app_id": 1,
-        "app_label_id": "",
+        "app_label_id": "seafood_miso_soup",
         "game_id": 0,
         "game_alias": [],
         "name": {
             "zh-hans": "",
             "zh-hant": "海鮮味噌湯",
-            "en": "",
+            "en": "Seafood Miso Soup",
             "ja": "",
             "ko": ""
         },
@@ -23,7 +23,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "烤八目鰻",
-            "en": "",
+            "en": "Grilled Lamprey",
             "ja": "",
             "ko": ""
         },
@@ -39,7 +39,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "能量串",
-            "en": "",
+            "en": "Energy Skewer",
             "ja": "",
             "ko": ""
         },
@@ -55,7 +55,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "冷豆腐",
-            "en": "",
+            "en": "Fresh Tofu",
             "ja": "",
             "ko": ""
         },
@@ -71,7 +71,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "黑暗料理",
-            "en": "",
+            "en": "Dark Matter",
             "ja": "",
             "ko": ""
         },
@@ -87,7 +87,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "飯糰",
-            "en": "",
+            "en": "Rice Ballqqq",
             "ja": "",
             "ko": ""
         },
@@ -103,13 +103,13 @@
     },
     {
         "app_id": 7,
-        "app_label_id": "",
+        "app_label_id": "secret_dried_fish_crisps",
         "game_id": null,
         "game_alias": [],
         "name": {
             "zh-hans": "",
             "zh-hant": "祕製小魚乾",
-            "en": "",
+            "en": "Secret Dried Fish Crisps",
             "ja": "",
             "ko": ""
         },
@@ -131,7 +131,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "臭豆腐",
-            "en": "",
+            "en": "Stinky Tofu",
             "ja": "",
             "ko": ""
         },
@@ -153,7 +153,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "煮豆腐",
-            "en": "",
+            "en": "Boiled tofu",
             "ja": "",
             "ko": ""
         },
@@ -175,7 +175,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "露水煮蛋",
-            "en": "",
+            "en": "Dew Runny Eggs",
             "ja": "",
             "ko": ""
         },
@@ -197,7 +197,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "烤蘑菇",
-            "en": "",
+            "en": "Roasted Mushroom",
             "ja": "",
             "ko": ""
         },
@@ -219,7 +219,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "豬肉蓋澆飯",
-            "en": "",
+            "en": "Pork Bowl",
             "ja": "",
             "ko": ""
         },
@@ -241,7 +241,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "炸八目鰻",
-            "en": "",
+            "en": "Fried Lampreys",
             "ja": "",
             "ko": ""
         },
@@ -263,7 +263,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "土豆可樂餅",
-            "en": "",
+            "en": "Potato Croquettes",
             "ja": "",
             "ko": ""
         },
@@ -285,7 +285,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "香炸蟬蛻",
-            "en": "",
+            "en": "Fried Cicada Sloughs",
             "ja": "",
             "ko": ""
         },
@@ -307,7 +307,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "豬肉鱒魚燻",
-            "en": "",
+            "en": "Pork & Trout Kebab",
             "ja": "",
             "ko": ""
         },
@@ -329,7 +329,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "豚骨拉麵",
-            "en": "",
+            "en": "Tonkotsu Ramen",
             "ja": "",
             "ko": ""
         },
@@ -351,7 +351,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "賽熊掌",
-            "en": "",
+            "en": "Imitation Bear Paw",
             "ja": "",
             "ko": ""
         },
@@ -373,7 +373,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "麻薯",
-            "en": "",
+            "en": "Mochi",
             "ja": "",
             "ko": ""
         },
@@ -395,7 +395,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "月光糰子",
-            "en": "",
+            "en": "Lunar Dangosa",
             "ja": "",
             "ko": ""
         },
@@ -417,7 +417,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "豆腐味噌",
-            "en": "",
+            "en": "Miso Tofu",
             "ja": "",
             "ko": ""
         },
@@ -439,7 +439,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "油豆腐",
-            "en": "",
+            "en": "Deep Fried Tofu",
             "ja": "",
             "ko": ""
         },
@@ -461,7 +461,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "幻曇花糕",
-            "en": "",
+            "en": "Udumbara Cake",
             "ja": "",
             "ko": ""
         },
@@ -483,7 +483,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "蔬菜專輯",
-            "en": "",
+            "en": "Vegetable Salad",
             "ja": "",
             "ko": ""
         },
@@ -505,7 +505,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "詩禮銀杏",
-            "en": "",
+            "en": "Scholar's Ginkgo",
             "ja": "",
             "ko": ""
         },
@@ -527,7 +527,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "炙豬肉飯糰",
-            "en": "",
+            "en": "Pork Rice Ball",
             "ja": "",
             "ko": ""
         },
@@ -549,7 +549,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "力量湯",
-            "en": "",
+            "en": "Power Soup",
             "ja": "",
             "ko": ""
         },
@@ -571,7 +571,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "溫暖飯糰",
-            "en": "",
+            "en": "Pink Rice Ball",
             "ja": "",
             "ko": ""
         },
@@ -593,7 +593,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "炸豬肉排",
-            "en": "",
+            "en": "Fried Pork Cutlet",
             "ja": "",
             "ko": ""
         },
@@ -615,7 +615,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "涼菜雕花",
-            "en": "",
+            "en": "Carved Rose Salad",
             "ja": "",
             "ko": ""
         },
@@ -637,7 +637,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "炒肉絲",
-            "en": "",
+            "en": "Pork Stir Fry",
             "ja": "",
             "ko": ""
         },
@@ -659,7 +659,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "櫻落雪",
-            "en": "",
+            "en": "Falling Blossoms",
             "ja": "",
             "ko": ""
         },
@@ -681,7 +681,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "白雪",
-            "en": "",
+            "en": "Shirayuki",
             "ja": "",
             "ko": ""
         },
@@ -703,7 +703,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "桃花羹",
-            "en": "",
+            "en": "Peach Tapioca",
             "ja": "",
             "ko": ""
         },
@@ -725,7 +725,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "雜炊",
-            "en": "",
+            "en": "Hodgepodge",
             "ja": "",
             "ko": ""
         },
@@ -747,7 +747,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "香煎三文魚",
-            "en": "",
+            "en": "Salmon Steak",
             "ja": "",
             "ko": ""
         },
@@ -769,7 +769,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "熱鬆餅",
-            "en": "",
+            "en": "Pancakes with Syrup",
             "ja": "",
             "ko": ""
         },
@@ -791,7 +791,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "大奢宴",
-            "en": "",
+            "en": "Ddimyo's Feast",
             "ja": "",
             "ko": ""
         },
@@ -813,7 +813,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "北極甜蝦蜜桃色拉",
-            "en": "",
+            "en": "Peach & Shrimp Salad",
             "ja": "",
             "ko": ""
         },
@@ -835,7 +835,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "二天一流",
-            "en": "",
+            "en": "Niten Ichiryu",
             "ja": "",
             "ko": ""
         },
@@ -857,7 +857,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "司康餅",
-            "en": "",
+            "en": "Scones",
             "ja": "",
             "ko": ""
         },
@@ -879,7 +879,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "班尼迪克蛋",
-            "en": "",
+            "en": "Eggs Benedict",
             "ja": "",
             "ko": ""
         },
@@ -901,7 +901,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "黃油牛排",
-            "en": "",
+            "en": "Classic Steak",
             "ja": "",
             "ko": ""
         },
@@ -923,7 +923,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "紅燒鰻魚",
-            "en": "",
+            "en": "Kabayaki Lampreys",
             "ja": "",
             "ko": ""
         },
@@ -945,7 +945,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "真·海鮮味噌湯",
-            "en": "",
+            "en": "Real · Seafood Mise Soup",
             "ja": "",
             "ko": ""
         },
@@ -967,7 +967,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "豆腐鍋",
-            "en": "",
+            "en": "Tofu Stew",
             "ja": "",
             "ko": ""
         },
@@ -989,7 +989,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "水餃",
-            "en": "",
+            "en": "Dumplings",
             "ja": "",
             "ko": ""
         },
@@ -1011,7 +1011,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "意式燴飯",
-            "en": "",
+            "en": "Italian Risotto",
             "ja": "",
             "ko": ""
         },
@@ -1033,7 +1033,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "刺身拼盤",
-            "en": "",
+            "en": "Sashimi Platter",
             "ja": "",
             "ko": ""
         },
@@ -1055,7 +1055,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "湯圓",
-            "en": "",
+            "en": "Tangyuan",
             "ja": "",
             "ko": ""
         },
@@ -1077,7 +1077,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "蜜汁叉燒",
-            "en": "",
+            "en": "Cantonese Char Siu",
             "ja": "",
             "ko": ""
         },
@@ -1099,7 +1099,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "白果羅蔔排骨湯",
-            "en": "",
+            "en": "Golden Ribs Soup",
             "ja": "",
             "ko": ""
         },
@@ -1121,7 +1121,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "豬鹿蝶",
-            "en": "",
+            "en": "Ino-Shika-Chou",
             "ja": "",
             "ko": ""
         },
@@ -1143,7 +1143,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "華光玉煎包",
-            "en": "",
+            "en": "Rainbow Pan-fried Pork Buns",
             "ja": "",
             "ko": ""
         },
@@ -1165,7 +1165,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "牛肉蓋澆飯",
-            "en": "",
+            "en": "Beef Bowl",
             "ja": "",
             "ko": ""
         },
@@ -1187,7 +1187,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "奶油燉菜",
-            "en": "",
+            "en": "Creamy Vegetable Chowder",
             "ja": "",
             "ko": ""
         },
@@ -1209,7 +1209,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "竹筍炒肉",
-            "en": "",
+            "en": "Pork & Bamboo Shoots Stir Fry",
             "ja": "",
             "ko": ""
         },
@@ -1230,8 +1230,8 @@
         "game_alias": [],
         "name": {
             "zh-hans": "",
-            "zh-hant": "慧靈頓牛排",
-            "en": "",
+            "zh-hant": "惠靈頓牛排",
+            "en": "Beef Wellington",
             "ja": "",
             "ko": ""
         },
@@ -1253,7 +1253,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "流水素麵",
-            "en": "",
+            "en": "Flowing Somen",
             "ja": "",
             "ko": ""
         },
@@ -1275,7 +1275,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "竹取姬",
-            "en": "",
+            "en": "Kaguya-hime",
             "ja": "",
             "ko": ""
         },
@@ -1297,7 +1297,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "不死鳥",
-            "en": "",
+            "en": "Immortal Turkey",
             "ja": "",
             "ko": ""
         },
@@ -1319,7 +1319,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "野味加農",
-            "en": "",
+            "en": "Hunter's Casserole",
             "ja": "",
             "ko": ""
         },
@@ -1341,7 +1341,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "麻婆豆腐",
-            "en": "",
+            "en": "Mapo Tofu",
             "ja": "",
             "ko": ""
         },
@@ -1363,7 +1363,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "竹筒蒸蛋",
-            "en": "",
+            "en": "Steamed Egg & Bamboo Shootsd",
             "ja": "",
             "ko": ""
         },
@@ -1385,7 +1385,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "水煮魚",
-            "en": "",
+            "en": "Sichuan Boiled Fish",
             "ja": "",
             "ko": ""
         },
@@ -1407,7 +1407,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "白桃生八橋",
-            "en": "",
+            "en": "Peach Yatsuhashi",
             "ja": "",
             "ko": ""
         },
@@ -1429,7 +1429,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "月之戀人",
-            "en": "",
+            "en": "Lunar Lover Biscuits",
             "ja": "",
             "ko": ""
         },
@@ -1451,7 +1451,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "岩漿",
-            "en": "",
+            "en": "Fuji's Lava",
             "ja": "",
             "ko": ""
         },
@@ -1473,7 +1473,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "蓬萊玉枝",
-            "en": "",
+            "en": "Hourgi Branch",
             "ja": "",
             "ko": ""
         },
@@ -1494,8 +1494,8 @@
         "game_alias": [],
         "name": {
             "zh-hans": "",
-            "zh-hant": "毛玉三色冰激凌 毛玉三色冰淇淋",
-            "en": "",
+            "zh-hant": "毛玉三色冰激凌",
+            "en": "Cubic Kedama Ice Cream",
             "ja": "",
             "ko": ""
         },
@@ -1517,7 +1517,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "毛玉熔岩豆腐",
-            "en": "",
+            "en": "Cubic Kedama Volcanic Tofu",
             "ja": "",
             "ko": ""
         },
@@ -1539,7 +1539,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "腥紅惡魔蛋糕",
-            "en": "",
+            "en": "Scarlet Devil Cake",
             "ja": "",
             "ko": ""
         },
@@ -1561,7 +1561,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "無意識妖怪慕斯",
-            "en": "",
+            "en": "Unconscious Youkai Mousse",
             "ja": "",
             "ko": ""
         },
@@ -1583,7 +1583,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "蘑菇肉片",
-            "en": "",
+            "en": "Pork & Mushroom Stir Fry",
             "ja": "",
             "ko": ""
         },
@@ -1605,7 +1605,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "奶香蘑菇湯",
-            "en": "",
+            "en": "Cream of Mushroom Soup",
             "ja": "",
             "ko": ""
         },
@@ -1627,7 +1627,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "手握壽司",
-            "en": "",
+            "en": "Nigiri Sushi",
             "ja": "",
             "ko": ""
         },
@@ -1649,7 +1649,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "大阪燒",
-            "en": "",
+            "en": "Okonomiyaki",
             "ja": "",
             "ko": ""
         },
@@ -1671,7 +1671,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "醃黃瓜",
-            "en": "",
+            "en": "Pickles",
             "ja": "",
             "ko": ""
         },
@@ -1693,7 +1693,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "祕製鮮類煲",
-            "en": "",
+            "en": "Secret Savory Mushroom Hotpot",
             "ja": "",
             "ko": ""
         },
@@ -1715,7 +1715,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "炸蝦天婦羅",
-            "en": "",
+            "en": "Deep Fried Shrimp Tempura",
             "ja": "",
             "ko": ""
         },
@@ -1737,7 +1737,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "章魚燒",
-            "en": "",
+            "en": "Takoyaki",
             "ja": "",
             "ko": ""
         },
@@ -1759,7 +1759,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "奶油焗蟹",
-            "en": "",
+            "en": "Creamy Crab",
             "ja": "",
             "ko": ""
         },
@@ -1781,7 +1781,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "普通小蛋糕",
-            "en": "",
+            "en": "Ordinary \"Eat Me\" Cupcake",
             "ja": "",
             "ko": ""
         },
@@ -1803,7 +1803,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "黃金酥魚餅",
-            "en": "",
+            "en": "Golden Crispy Fish Cakes",
             "ja": "",
             "ko": ""
         },
@@ -1825,7 +1825,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "南瓜蝦盅",
-            "en": "",
+            "en": "Shrimp - Stuffed Pumpkin",
             "ja": "",
             "ko": ""
         },
@@ -1847,7 +1847,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "蘑女的舞踏燴",
-            "en": "",
+            "en": "Mushroom Maidens Tip Tap Pot",
             "ja": "",
             "ko": ""
         },
@@ -1869,7 +1869,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "海膽刺身",
-            "en": "",
+            "en": "Sea Urchin Sashimi",
             "ja": "",
             "ko": ""
         },
@@ -1891,7 +1891,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "七色羊羹",
-            "en": "",
+            "en": "Seven-Colored Yokan",
             "ja": "",
             "ko": ""
         },
@@ -1913,7 +1913,7 @@
         "name": {
             "zh-hans": "",
             "zh-hant": "擬尻子玉",
-            "en": "",
+            "en": "Imitation Shirkodama",
             "ja": "",
             "ko": ""
         },
