@@ -1,0 +1,686 @@
+[
+    {
+        "app_id": 1,
+        "app_label_id": "youkai_rabbit",
+        "game_id": 4,
+        "name": {
+            "zh-hans": "妖怪兔",
+            "zh-hant": "妖怪兔",
+            "en": "Youkai rabbit",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                19,
+                31,
+                21,
+                3,
+                15,
+                16,
+                17,
+                23,
+                -20
+            ],
+            "drinks": [
+                -1
+            ],
+            "visits": [
+                "BeastForest",
+                "ScarletMansion",
+                "BambooForest",
+                "DLC1_MagicForest",
+                "DLC1_YoukaiMountain"
+            ]
+        }
+    },
+    {
+        "app_id": 2,
+        "app_label_id": "youkai_cat",
+        "game_id": 0,
+        "name": {
+            "zh-hans": "妖怪猫",
+            "zh-hant": "妖怪貓",
+            "en": "Youkai Cat",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                0,
+                21,
+                11,
+                14,
+                19,
+                -20
+            ],
+            "drinks": [
+                3,
+                10,
+                15
+            ],
+            "visits": [
+                "BeastForest",
+                "HakureiShrine",
+                "ScarletMansion",
+                "BambooForest",
+                "DLC1_MagicForest",
+                "DLC1_YoukaiMountain"
+            ]
+        }
+    },
+    {
+        "app_id": 3,
+        "app_label_id": "youkai_tanuki",
+        "game_id": 3,
+        "name": {
+            "zh-hans": "妖怪狸",
+            "zh-hant": "妖怪狸",
+            "en": "Youkai Tanuki",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                0,
+                6,
+                15,
+                9,
+                10,
+                19,
+                -20
+            ],
+            "drinks": [
+                13,
+                14
+            ],
+            "visits": [
+                "BeastForest",
+                "HakureiShrine",
+                "ScarletMansion",
+                "BambooForest",
+                "DLC1_MagicForest",
+                "DLC1_YoukaiMountain"
+            ]
+        }
+    },
+    {
+        "app_id": 4,
+        "app_label_id": "youkai_fox",
+        "game_id": 2,
+        "name": {
+            "zh-hans": "妖怪狐",
+            "zh-hant": "妖怪狐",
+            "en": "Youkai Fox",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                0,
+                19,
+                12,
+                14,
+                28,
+                -20
+            ],
+            "drinks": [
+                11
+            ],
+            "visits": [
+                "BeastForest",
+                "ScarletMansion",
+                "BambooForest",
+                "DLC1_YoukaiMountain"
+            ]
+        }
+    },
+    {
+        "app_id": 5,
+        "app_label_id": "youkai_snake",
+        "game_id": 1,
+        "name": {
+            "zh-hans": "蟒蛇精",
+            "zh-hant": "蟒蛇精",
+            "en": "Youkai Snake",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                0,
+                8,
+                10,
+                23,
+                -20
+            ],
+            "drinks": [
+                5,
+                6
+            ],
+            "visits": [
+                "BeastForest",
+                "DLC1_YoukaiMountain"
+            ]
+        }
+    },
+    {
+        "app_id": 6,
+        "app_label_id": "human_child",
+        "game_id": 9,
+        "name": {
+            "zh-hans": "人类小孩",
+            "zh-hant": "人類小孩",
+            "en": "Human Child",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                0,
+                3,
+                9,
+                14,
+                15,
+                17,
+                21,
+                19,
+                -20
+            ],
+            "drinks": [
+                -1
+            ],
+            "visits": [
+                "HumanVillage"
+            ]
+        }
+    },
+    {
+        "app_id": 7,
+        "app_label_id": "human_male",
+        "game_id": 5,
+        "name": {
+            "zh-hans": "人类男性",
+            "zh-hant": "人類男性",
+            "en": "Human Male",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                0,
+                8,
+                12,
+                15,
+                16,
+                22,
+                25,
+                -20
+            ],
+            "drinks": [
+                4,
+                5
+            ],
+            "visits": [
+                "HumanVillage"
+            ]
+        }
+    },
+    {
+        "app_id": 8,
+        "app_label_id": "human_female",
+        "game_id": 8,
+        "name": {
+            "zh-hans": "人类女性",
+            "zh-hant": "人類女性",
+            "en": "Human Female",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                1,
+                4,
+                15,
+                16,
+                21,
+                19,
+                -20
+            ],
+            "drinks": [
+                3
+            ],
+            "visits": [
+                "HumanVillage",
+                "HakureiShrine"
+            ]
+        }
+    },
+    {
+        "app_id": 9,
+        "app_label_id": "human_elder",
+        "game_id": 6,
+        "name": {
+            "zh-hans": "人类长者",
+            "zh-hant": "人類長者",
+            "en": "Human Elder",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                4,
+                20,
+                22,
+                19,
+                -20
+            ],
+            "drinks": [
+                0
+            ],
+            "visits": [
+                "HumanVillage",
+                "HakureiShrine"
+            ]
+        }
+    },
+    {
+        "app_id": 10,
+        "app_label_id": "saemon",
+        "game_id": 7,
+        "name": {
+            "zh-hans": "左卫门",
+            "zh-hant": "左衛門",
+            "en": "Saemon",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                18,
+                24,
+                23,
+                4,
+                -20
+            ],
+            "drinks": [
+                2
+            ],
+            "visits": [
+                "HumanVillage",
+                "HakureiShrine"
+            ]
+        }
+    },
+    {
+        "app_id": 11,
+        "app_label_id": "zashiki_warashi",
+        "game_id": 13,
+        "name": {
+            "zh-hans": "座敷童子",
+            "zh-hant": "座敷童子",
+            "en": "Zashiki-warashi",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                21,
+                12,
+                10,
+                18,
+                17,
+                19,
+                -20
+            ],
+            "drinks": [
+                0,
+                -1
+            ],
+            "visits": [
+                "HakureiShrine"
+            ]
+        }
+    },
+    {
+        "app_id": 12,
+        "app_label_id": "kappa",
+        "game_id": 10,
+        "name": {
+            "zh-hans": "河童",
+            "zh-hant": "河童",
+            "en": "Kappa",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                -1,
+                4,
+                28,
+                11,
+                22,
+                24,
+                19,
+                -20
+            ],
+            "drinks": [
+                13
+            ],
+            "visits": [
+                "HakureiShrine",
+                "ScarletMansion",
+                "DLC1_YoukaiMountain",
+                "DLC1_MagicForest"
+            ]
+        }
+    },
+    {
+        "app_id": 13,
+        "app_label_id": null,
+        "game_id": null,
+        "name": {
+            "zh-hans": "???",
+            "zh-hant": "???",
+            "en": "???",
+            "ja": "???",
+            "ko": "???"
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [],
+            "drinks": [],
+            "visits": []
+        }
+    },
+    {
+        "app_id": 14,
+        "app_label_id": "tengu",
+        "game_id": 11,
+        "name": {
+            "zh-hans": "鸦天狗",
+            "zh-hant": "鴉天狗",
+            "en": "Tengu",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                20,
+                4,
+                26,
+                19,
+                -20
+            ],
+            "drinks": [
+                5,
+                6
+            ],
+            "visits": [
+                "HakureiShrine",
+                "ScarletMansion",
+                "BambooForest",
+                "DLC1_YoukaiMountain"
+            ]
+        }
+    },
+    {
+        "app_id": 15,
+        "app_label_id": "fairy",
+        "game_id": 14,
+        "name": {
+            "zh-hans": "妖精",
+            "zh-hant": "妖精",
+            "en": "Fairy",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                17,
+                29,
+                20,
+                31,
+                30,
+                26,
+                16,
+                -20
+            ],
+            "drinks": [
+                16,
+                13,
+                11,
+                12
+            ],
+            "visits": [
+                "ScarletMansion",
+                "BambooForest",
+                "DLC1_MagicForest"
+            ]
+        }
+    },
+    {
+        "app_id": 16,
+        "app_label_id": "white_wolf_tengu",
+        "game_id": 1004,
+        "name": {
+            "zh-hans": "白狼天狗",
+            "zh-hant": "白狼天狗",
+            "en": "White Wolf Tengu",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "likes": [
+                0,
+                6,
+                9,
+                10,
+                16,
+                18,
+                15,
+                19,
+                30,
+                -20
+            ],
+            "drinks": [
+                1,
+                2,
+                5,
+                6
+            ],
+            "visits": [
+                "DLC1_YoukaiMountain"
+            ]
+        }
+    },
+    {
+        "app_id": 17,
+        "app_label_id": "yamanba",
+        "game_id": 1003,
+        "name": {
+            "zh-hans": "山姥",
+            "zh-hant": "山姥",
+            "en": "Yamanba",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "likes": [
+                0,
+                3,
+                4,
+                9,
+                16,
+                23,
+                24,
+                -20
+            ],
+            "drinks": [
+                2,
+                11,
+                17,
+                5
+            ],
+            "visits": [
+                "DLC1_YoukaiMountain"
+            ]
+        }
+    },
+    {
+        "app_id": 18,
+        "app_label_id": "yamawaro",
+        "game_id": 1001,
+        "name": {
+            "zh-hans": "山童",
+            "zh-hant": "山童",
+            "en": "Yamawaro",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "likes": [
+                -1,
+                4,
+                28,
+                10,
+                22,
+                24,
+                19,
+                -20
+            ],
+            "drinks": [
+                15,
+                1
+            ],
+            "visits": [
+                "DLC1_YoukaiMountain"
+            ]
+        }
+    },
+    {
+        "app_id": 19,
+        "app_label_id": "madician",
+        "game_id": 1002,
+        "name": {
+            "zh-hans": "魔法使",
+            "zh-hant": "魔法使",
+            "en": "Madician",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "likes": [
+                2,
+                3,
+                4,
+                5,
+                7,
+                13,
+                16,
+                20,
+                21,
+                -20
+            ],
+            "drinks": [
+                4,
+                8,
+                7,
+                19
+            ],
+            "visits": [
+                "DLC1_MagicForest"
+            ]
+        }
+    },
+    {
+        "app_id": 20,
+        "app_label_id": "forest_fairy",
+        "game_id": 1005,
+        "name": {
+            "zh-hans": "森之妖精",
+            "zh-hant": "森之妖精",
+            "en": "Forest Fairy",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "likes": [
+                21,
+                28,
+                17,
+                29,
+                19,
+                3,
+                12,
+                14,
+                16,
+                -20
+            ],
+            "drinks": [
+                -1,
+                0,
+                6,
+                13,
+                12
+            ],
+            "visits": [
+                "DLC1_MagicForest"
+            ]
+        }
+    },
+    {
+        "app_id": 21,
+        "app_label_id": "lost_doll",
+        "game_id": 1000,
+        "name": {
+            "zh-hans": "迷之人形",
+            "zh-hant": "迷之人形",
+            "en": "Lost Doll",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "likes": [
+                2,
+                15,
+                18,
+                24,
+                20,
+                26,
+                28,
+                29,
+                -20
+            ],
+            "drinks": [
+                16,
+                15,
+                19,
+                12
+            ],
+            "visits": [
+                "DLC1_MagicForest"
+            ]
+        }
+    }
+]

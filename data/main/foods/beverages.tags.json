@@ -1,0 +1,275 @@
+[
+    {
+        "app_id": 1,
+        "app_label_id": "no_alcohol",
+        "game_id": "-1",
+        "name": {
+            "zh-hans": "无酒精",
+            "zh-hant": "無酒精",
+            "en": "No Alcohol",
+            "ja": "ノンアル",
+            "ko": "무알콜"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 2,
+        "app_label_id": "low_alcohol",
+        "game_id": "0",
+        "name": {
+            "zh-hans": "低酒精",
+            "zh-hant": "低酒精",
+            "en": "Low Alcohol",
+            "ja": "度数低め",
+            "ko": "도수 낮음"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 3,
+        "app_label_id": "medium_alcohol",
+        "game_id": "1",
+        "name": {
+            "zh-hans": "中酒精",
+            "zh-hant": "中酒精",
+            "en": "Mid Alcohol",
+            "ja": "度数普通",
+            "ko": "도수 보통"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 4,
+        "app_label_id": "high_alcohol",
+        "game_id": "2",
+        "name": {
+            "zh-hans": "高酒精",
+            "zh-hant": "高酒精",
+            "en": "High Alcohol",
+            "ja": "度数高め",
+            "ko": "도수 높음"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 5,
+        "app_label_id": "chiliable",
+        "game_id": "3",
+        "name": {
+            "zh-hans": "可加冰",
+            "zh-hant": "可加冰",
+            "en": "Chiliable",
+            "ja": "ロック",
+            "ko": "시원하게 마심"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 6,
+        "app_label_id": "heatable",
+        "game_id": "4",
+        "name": {
+            "zh-hans": "可加热",
+            "zh-hant": "可加熱",
+            "en": "Heatable",
+            "ja": "熱燗",
+            "ko": " 따듯하게 마심"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 7,
+        "app_label_id": "shochu",
+        "game_id": "5",
+        "name": {
+            "zh-hans": "烧酒",
+            "zh-hant": "燒酒",
+            "en": "Shochu",
+            "ja": "焼酎",
+            "ko": " 소주"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 8,
+        "app_label_id": "sake",
+        "game_id": "6",
+        "name": {
+            "zh-hans": "清酒",
+            "zh-hant": "清酒",
+            "en": "Sake",
+            "ja": "日本酒",
+            "ko": "청주"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 9,
+        "app_label_id": "cocktail",
+        "game_id": "7",
+        "name": {
+            "zh-hans": "鸡尾酒",
+            "zh-hant": "雞尾酒",
+            "en": "Cocktail",
+            "ja": "カクテル",
+            "ko": "칵테일"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 10,
+        "app_label_id": "western",
+        "game_id": "8",
+        "name": {
+            "zh-hans": "西洋酒",
+            "zh-hant": "西洋酒",
+            "en": "Western",
+            "ja": "洋酒",
+            "ko": "양수"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 11,
+        "app_label_id": "liquor",
+        "game_id": "9",
+        "name": {
+            "zh-hans": "利口酒",
+            "zh-hant": "利口酒",
+            "en": "Liquor",
+            "ja": "リキュール",
+            "ko": "스위트함"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 12,
+        "app_label_id": "beer",
+        "game_id": "10",
+        "name": {
+            "zh-hans": "啤酒",
+            "zh-hant": "啤酒",
+            "en": "Beer",
+            "ja": "ビール",
+            "ko": "백주"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 13,
+        "app_label_id": "neat",
+        "game_id": "11",
+        "name": {
+            "zh-hans": "直饮",
+            "zh-hant": "直飲",
+            "en": "Neat",
+            "ja": "ストレート",
+            "ko": "스트레이트"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 14,
+        "app_label_id": "fruity",
+        "game_id": "12",
+        "name": {
+            "zh-hans": "水果",
+            "zh-hant": "水果",
+            "en": "Fruity",
+            "ja": "フルーツ",
+            "ko": "과일향"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 15,
+        "app_label_id": "sweet",
+        "game_id": "13",
+        "name": {
+            "zh-hans": "甘",
+            "zh-hant": "甘",
+            "en": "Sweet",
+            "ja": "甘口",
+            "ko": "스위트함"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 16,
+        "app_label_id": "dry",
+        "game_id": "14",
+        "name": {
+            "zh-hans": "辛",
+            "zh-hant": "辛",
+            "en": "Dry",
+            "ja": "辛口",
+            "ko": "드라이함"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 17,
+        "app_label_id": "bitter",
+        "game_id": "15",
+        "name": {
+            "zh-hans": "苦",
+            "zh-hant": "苦",
+            "en": "Bitter",
+            "ja": "苦味",
+            "ko": "쓴 맛"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 18,
+        "app_label_id": "soda",
+        "game_id": "16",
+        "name": {
+            "zh-hans": "气泡",
+            "zh-hant": "氣泡",
+            "en": "Soda",
+            "ja": "炭酸",
+            "ko": "탄산"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 19,
+        "app_label_id": "vintage",
+        "game_id": "17",
+        "name": {
+            "zh-hans": "古典",
+            "zh-hant": "古典",
+            "en": "Vintage",
+            "ja": "古典",
+            "ko": "클래식"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 20,
+        "app_label_id": "modern",
+        "game_id": "18",
+        "name": {
+            "zh-hans": "现代",
+            "zh-hant": "現代",
+            "en": "Modern",
+            "ja": "モダン",
+            "ko": "모던"
+        },
+        "data": {}
+    },
+    {
+        "app_id": 21,
+        "app_label_id": "stimulating",
+        "game_id": "19",
+        "name": {
+            "zh-hans": "提神",
+            "zh-hant": "提神",
+            "en": "Stimulating",
+            "ja": "眠気覚まし",
+            "ko": "상쾌함"
+        },
+        "data": {}
+    }
+]

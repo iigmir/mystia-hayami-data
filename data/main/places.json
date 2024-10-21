@@ -1,0 +1,146 @@
+[
+    {
+        "app_id": 1,
+        "app_label_id": "BeastForest",
+        "game_id": "BeastForest",
+        "name": {
+            "zh-hans": "妖怪兽道",
+            "zh-hant": "妖怪獸道",
+            "en": "Youkai Trail",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "links": {
+            "wikidata": null,
+            "thwiki": "妖怪兽道",
+            "touhouwiki": "Youkai_Trail"
+        }
+    },
+    {
+        "app_id": 2,
+        "app_label_id": "HumanVillage",
+        "game_id": "HumanVillage",
+        "name": {
+            "zh-hans": "人间之里",
+            "zh-hant": "人間之里",
+            "en": "Human Village",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "links": {
+            "wikidata": null,
+            "thwiki": "人类村落",
+            "touhouwiki": "Human_Village"
+        }
+    },
+    {
+        "app_id": 3,
+        "app_label_id": "HakureiShrine",
+        "game_id": "HakureiShrine",
+        "name": {
+            "zh-hans": "博丽神社",
+            "zh-hant": "博麗神社",
+            "en": "Hakurei Shrine",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "links": {
+            "wikidata": "Q124301781",
+            "touhouwiki": "Hakurei_Shrine",
+            "thwiki": "博丽神社"
+        }
+    },
+    {
+        "app_id": 4,
+        "app_label_id": "ScarletMansion",
+        "game_id": "ScarletMansion",
+        "name": {
+            "zh-hans": "红魔馆",
+            "zh-hant": "紅魔館",
+            "en": "Scarlet Devil Mansion",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "links": {
+            "wikidata": "Q16629290",
+            "thwiki": "红魔馆",
+            "touhouwiki": "Scarlet_Devil_Mansion"
+        }
+    },
+    {
+        "app_id": 5,
+        "app_label_id": "BambooForest",
+        "game_id": "BambooForest",
+        "name": {
+            "zh-hans": "迷途竹林",
+            "zh-hant": "迷途竹林",
+            "en": "Bamboo Forest of the Lost",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "links": {
+            "wikidata": null,
+            "thwiki": "迷途竹林",
+            "touhouwiki": "Bamboo_Forest_of_the_Lost"
+        }
+    },
+    {
+        "app_id": 6,
+        "app_label_id": "Hakugyokurou",
+        "game_id": "Hakugyokurou",
+        "name": {
+            "zh-hans": "白玉樓",
+            "zh-hant": "白玉樓",
+            "en": "Hakugyokurou",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "links": {
+            "wikidata": "Q130476035",
+            "touhouwiki": "Hakugyokurou",
+            "thwiki": "白玉樓"
+        }
+    },
+    {
+        "app_id": 7,
+        "app_label_id": "DLC1_YoukaiMountain",
+        "game_id": "DLC1_YoukaiMountain",
+        "name": {
+            "zh-hans": "妖怪之山",
+            "zh-hant": "妖怪之山",
+            "en": "Youkai Mountain",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "links": {
+            "wikidata": null,
+            "thwiki": "妖怪之山",
+            "touhouwiki": "Youkai_Mountain"
+        }
+    },
+    {
+        "app_id": 8,
+        "app_label_id": "DLC1_MagicForest",
+        "game_id": "DLC1_MagicForest",
+        "name": {
+            "zh-hans": "魔法森林",
+            "zh-hant": "魔法森林",
+            "en": "Forest of Magic",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "links": {
+            "wikidata": null,
+            "thwiki": "魔法森林",
+            "touhouwiki": "Forest_of_Magic"
+        }
+    }
+]

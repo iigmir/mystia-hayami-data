@@ -1,0 +1,506 @@
+[
+    {
+        "app_id": 1,
+        "app_label_id": "dark_matter",
+        "game_id": null,
+        "name": {
+            "zh-hans": "黑暗物质",
+            "zh-hant": "黑暗物質",
+            "en": "Dark Matter",
+            "ja": "ダークマター",
+            "ko": "어둠의 요리"
+        }
+    },
+    {
+        "app_id": 2,
+        "app_label_id": "expensive",
+        "game_id": "-3",
+        "name": {
+            "zh-hans": "昂贵",
+            "zh-hant": "昂貴",
+            "en": "Expensive",
+            "ja": "高価",
+            "ko": "고가"
+        }
+    },
+    {
+        "app_id": 3,
+        "app_label_id": "economical",
+        "game_id": "-2",
+        "name": {
+            "zh-hans": "实惠",
+            "zh-hant": "實惠",
+            "en": "Economical",
+            "ja": "安価",
+            "ko": "저가"
+        }
+    },
+    {
+        "app_id": 4,
+        "app_label_id": "meat",
+        "game_id": "0",
+        "name": {
+            "zh-hans": "肉",
+            "zh-hant": "肉",
+            "en": "Meat",
+            "ja": "肉食",
+            "ko": "육류"
+        }
+    },
+    {
+        "app_id": 5,
+        "app_label_id": "aquatic",
+        "game_id": "1",
+        "name": {
+            "zh-hans": "水产",
+            "zh-hant": "水產",
+            "en": "Aquatic",
+            "ja": "魚介",
+            "ko": "수산물"
+        }
+    },
+    {
+        "app_id": 6,
+        "app_label_id": "vegetarian",
+        "game_id": "2",
+        "name": {
+            "zh-hans": "素",
+            "zh-hant": "素",
+            "en": "Vegetarian",
+            "ja": "野菜",
+            "ko": "채식"
+        }
+    },
+    {
+        "app_id": 7,
+        "app_label_id": "homecooking",
+        "game_id": "3",
+        "name": {
+            "zh-hans": "家常",
+            "zh-hant": "家常",
+            "en": "Homecooking",
+            "ja": "家庭",
+            "ko": "가정식"
+        }
+    },
+    {
+        "app_id": 8,
+        "app_label_id": "premium",
+        "game_id": "4",
+        "name": {
+            "zh-hans": "高级",
+            "zh-hant": "高級",
+            "en": "Premium",
+            "ja": "高級",
+            "ko": "고급"
+        }
+    },
+    {
+        "app_id": 9,
+        "app_label_id": "legendary",
+        "game_id": "5",
+        "name": {
+            "zh-hans": "传说",
+            "zh-hant": "傳說",
+            "en": "Legendary",
+            "ja": "伝説",
+            "ko": "전설적"
+        }
+    },
+    {
+        "app_id": 10,
+        "app_label_id": "greasy",
+        "game_id": "6",
+        "name": {
+            "zh-hans": "重油",
+            "zh-hant": "重油",
+            "en": "Greasy",
+            "ja": "こってり",
+            "ko": "기름짐"
+        }
+    },
+    {
+        "app_id": 11,
+        "app_label_id": "mild",
+        "game_id": "7",
+        "name": {
+            "zh-hans": "清淡",
+            "zh-hant": "清淡",
+            "en": "Mild",
+            "ja": "あっさり",
+            "ko": "담백함"
+        }
+    },
+    {
+        "app_id": 12,
+        "app_label_id": "good_with_alcohol",
+        "game_id": "8",
+        "name": {
+            "zh-hans": "下酒",
+            "zh-hant": "下酒",
+            "en": "Good with Alcohol",
+            "ja": "酒に合う",
+            "ko": "술과 어울림"
+        }
+    },
+    {
+        "app_id": 13,
+        "app_label_id": "filling",
+        "game_id": "9",
+        "name": {
+            "zh-hans": "饱腹",
+            "zh-hant": "飽腹",
+            "en": "Filling",
+            "ja": "満腹感",
+            "ko": "배부름"
+        }
+    },
+    {
+        "app_id": 14,
+        "app_label_id": "mountain_delicacy",
+        "game_id": "10",
+        "name": {
+            "zh-hans": "山珍",
+            "zh-hant": "山珍",
+            "en": "Mountain Delicacy",
+            "ja": "山の幸",
+            "ko": "산의 일미"
+        }
+    },
+    {
+        "app_id": 15,
+        "app_label_id": "sea_delicacy",
+        "game_id": "11",
+        "name": {
+            "zh-hans": "海味",
+            "zh-hant": "海味",
+            "en": "Sea Delicacy",
+            "ja": "海の幸",
+            "ko": "바다의 일미"
+        }
+    },
+    {
+        "app_id": 16,
+        "app_label_id": "japanese",
+        "game_id": "12",
+        "name": {
+            "zh-hans": "和风",
+            "zh-hant": "和風",
+            "en": "Japanese",
+            "ja": "和風",
+            "ko": "일식"
+        }
+    },
+    {
+        "app_id": 17,
+        "app_label_id": "western",
+        "game_id": "13",
+        "name": {
+            "zh-hans": "西式",
+            "zh-hant": "西式",
+            "en": "Western",
+            "ja": "洋風",
+            "ko": "양식"
+        }
+    },
+    {
+        "app_id": 18,
+        "app_label_id": "chinese",
+        "game_id": "14",
+        "name": {
+            "zh-hans": "中华",
+            "zh-hant": "中華",
+            "en": "Chinese",
+            "ja": "中華",
+            "ko": "중식"
+        }
+    },
+    {
+        "app_id": 19,
+        "app_label_id": "salty",
+        "game_id": "15",
+        "name": {
+            "zh-hans": "咸",
+            "zh-hant": "鹹",
+            "en": "Salty",
+            "ja": "塩味",
+            "ko": "짠 맛"
+        }
+    },
+    {
+        "app_id": 20,
+        "app_label_id": "fresh",
+        "game_id": "16",
+        "name": {
+            "zh-hans": "鲜",
+            "zh-hant": "鮮",
+            "en": "Fresh",
+            "ja": "旨味",
+            "ko": "신선할"
+        }
+    },
+    {
+        "app_id": 21,
+        "app_label_id": "sweet",
+        "game_id": "17",
+        "name": {
+            "zh-hans": "甜",
+            "zh-hant": "甜",
+            "en": "Sweet",
+            "ja": "甘味",
+            "ko": "단 맛"
+        }
+    },
+    {
+        "app_id": 22,
+        "app_label_id": "raw",
+        "game_id": "18",
+        "name": {
+            "zh-hans": "生",
+            "zh-hant": "生",
+            "en": "Raw",
+            "ja": "生",
+            "ko": "날 것"
+        }
+    },
+    {
+        "app_id": 23,
+        "app_label_id": "signature",
+        "game_id": "19",
+        "name": {
+            "zh-hans": "招牌",
+            "zh-hant": "招牌",
+            "en": "Signature",
+            "ja": "看板メニュー",
+            "ko": "시그니처"
+        }
+    },
+    {
+        "app_id": 24,
+        "app_label_id": "photogenic",
+        "game_id": "20",
+        "name": {
+            "zh-hans": "适合拍照",
+            "zh-hant": "適合拍照",
+            "en": "Photogenic",
+            "ja": "映える",
+            "ko": "사진빨을 받음"
+        }
+    },
+    {
+        "app_id": 25,
+        "app_label_id": "refreshing",
+        "game_id": "21",
+        "name": {
+            "zh-hans": "凉爽",
+            "zh-hant": "涼爽",
+            "en": "Refreshing",
+            "ja": "清涼",
+            "ko": "시윈함"
+        }
+    },
+    {
+        "app_id": 26,
+        "app_label_id": "hot",
+        "game_id": "22",
+        "name": {
+            "zh-hans": "灼热",
+            "zh-hant": "灼熱",
+            "en": "Hot",
+            "ja": "灼熱",
+            "ko": "따뜻함"
+        }
+    },
+    {
+        "app_id": 27,
+        "app_label_id": "strength_boosting",
+        "game_id": "23",
+        "name": {
+            "zh-hans": "力量涌现",
+            "zh-hant": "力量湧現",
+            "en": "Strength-Boosting",
+            "ja": "パワフル",
+            "ko": "힘이 넘침"
+        }
+    },
+    {
+        "app_id": 28,
+        "app_label_id": "peculiar",
+        "game_id": "24",
+        "name": {
+            "zh-hans": "猎奇",
+            "zh-hant": "獵奇",
+            "en": "Peculiar",
+            "ja": "珍味",
+            "ko": "이상함"
+        }
+    },
+    {
+        "app_id": 29,
+        "app_label_id": "cultural_heritage",
+        "game_id": "25",
+        "name": {
+            "zh-hans": "文化底蕴",
+            "zh-hant": "文化底蘊",
+            "en": "Cultural Heritage",
+            "ja": "伝統的",
+            "ko": "문화적"
+        }
+    },
+    {
+        "app_id": 30,
+        "app_label_id": "fungus",
+        "game_id": "26",
+        "name": {
+            "zh-hans": "菌类",
+            "zh-hant": "菌類",
+            "en": "Fungus",
+            "ja": "キノコ",
+            "ko": "균류"
+        }
+    },
+    {
+        "app_id": 31,
+        "app_label_id": "wonderful",
+        "game_id": "27",
+        "name": {
+            "zh-hans": "不可思议",
+            "zh-hant": "不可思議",
+            "en": "Wonderful",
+            "ja": "不思議",
+            "ko": "불가사의함"
+        }
+    },
+    {
+        "app_id": 32,
+        "app_label_id": "small_portion",
+        "game_id": "28",
+        "name": {
+            "zh-hans": "小巧",
+            "zh-hant": "小巧",
+            "en": "Small Portion",
+            "ja": "小料理",
+            "ko": "작음"
+        }
+    },
+    {
+        "app_id": 33,
+        "app_label_id": "dreamy",
+        "game_id": "29",
+        "name": {
+            "zh-hans": "梦幻",
+            "zh-hant": "夢幻",
+            "en": "Dreamy",
+            "ja": "夢幻",
+            "ko": "몽환적"
+        }
+    },
+    {
+        "app_id": 34,
+        "app_label_id": "specialty",
+        "game_id": "30",
+        "name": {
+            "zh-hans": "特产",
+            "zh-hant": "特產",
+            "en": "Specialty",
+            "ja": "特産品",
+            "ko": "특산물"
+        }
+    },
+    {
+        "app_id": 35,
+        "app_label_id": "fruity",
+        "game_id": "31",
+        "name": {
+            "zh-hans": "果味",
+            "zh-hant": "果味",
+            "en": "Fruity",
+            "ja": "フルーティー",
+            "ko": "과일맛"
+        }
+    },
+    {
+        "app_id": 36,
+        "app_label_id": "soup",
+        "game_id": "32",
+        "name": {
+            "zh-hans": "汤羹",
+            "zh-hant": "湯羹",
+            "en": "Soup",
+            "ja": "汁物",
+            "ko": "국류"
+        }
+    },
+    {
+        "app_id": 37,
+        "app_label_id": "grilled",
+        "game_id": "33",
+        "name": {
+            "zh-hans": "烧烤",
+            "zh-hant": "燒烤",
+            "en": "Grilled",
+            "ja": "焼き物",
+            "ko": "구이류"
+        }
+    },
+    {
+        "app_id": 38,
+        "app_label_id": "spicy",
+        "game_id": "34",
+        "name": {
+            "zh-hans": "辣",
+            "zh-hant": "辣",
+            "en": "Spicy",
+            "ja": "辛味",
+            "ko": "매움"
+        }
+    },
+    {
+        "app_id": 39,
+        "app_label_id": "aura_bursting",
+        "game_id": "35",
+        "name": {
+            "zh-hans": "燃起来了",
+            "zh-hant": "燃起來了",
+            "en": "Aura-Bursting",
+            "ja": "燃える",
+            "ko": "달아오름"
+        }
+    },
+    {
+        "app_id": 40,
+        "app_label_id": "trend_popular",
+        "game_id": "-20",
+        "name": {
+            "zh-hans": "流行‧喜爱",
+            "zh-hant": "流行‧喜愛",
+            "en": "Trend - Popular",
+            "ja": "人気",
+            "ko": "인기 있음"
+        }
+    },
+    {
+        "app_id": 41,
+        "app_label_id": "trend_unpopular",
+        "game_id": "-21",
+        "name": {
+            "zh-hans": "流行‧厌恶",
+            "zh-hant": "流行‧厭惡",
+            "en": "Trend - Unpopular",
+            "ja": "不人気",
+            "ko": "인기 없음"
+        }
+    },
+    {
+        "app_id": 42,
+        "app_label_id": "large_portion",
+        "game_id": "-1",
+        "name": {
+            "zh-hans": "大份",
+            "zh-hant": "大份",
+            "en": "Large Portion",
+            "ja": "大盛り",
+            "ko": "대량"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "app_id": 0,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {},
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": null
+        }
+    }
+]

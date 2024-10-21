@@ -1,0 +1,581 @@
+[
+    {
+        "app_id": 1,
+        "app_label_id": "green_tea",
+        "game_id": "0",
+        "name": {
+            "zh-hans": "绿茶",
+            "zh-hant": "綠茶",
+            "en": "Green Tea",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 1,
+            "tags": [-1]
+        }
+    },
+    {
+        "app_id": 2,
+        "app_label_id": "fruity_highball",
+        "game_id": "1",
+        "name": {
+            "zh-hans": "果味High Ball",
+            "zh-hant": "果味High Ball",
+            "en": "Fruity Highball",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 12,
+            "tags": [0,3,7,8,13,15]
+        }
+    },
+    {
+        "app_id": 3,
+        "app_label_id": "fruity_sour",
+        "game_id": "2",
+        "name": {
+            "zh-hans": "果味SOUR",
+            "zh-hant": "果味SOUR",
+            "en": "Fruity Sour",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 12,
+            "tags": [0,3,5,7,12,13,15]
+        }
+    },
+    {
+        "app_id": 4,
+        "app_label_id": "mio",
+        "game_id": "3",
+        "name": {
+            "zh-hans": "淇",
+            "zh-hant": "淇",
+            "en": "Mio",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 18,
+            "tags": [0,3,6,7,16,13,14,15]
+        }
+    },
+    {
+        "app_id": 5,
+        "app_label_id": "zun_beer",
+        "game_id": "4",
+        "name": {
+            "zh-hans": "超ZUN啤酒",
+            "zh-hant": "超ZUN啤酒",
+            "en": "ZUN Beer",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 18,
+            "tags": [0,3,10,15]
+        }
+    },
+    {
+        "app_id": 6,
+        "app_label_id": "sangetsusei",
+        "game_id": "5",
+        "name": {
+            "zh-hans": "日月星",
+            "zh-hant": "日月星",
+            "en": "Sangetsusei",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 32,
+            "tags": [1,3,4,6,13]
+        }
+    },
+    {
+        "app_id": 7,
+        "app_label_id": "umeshu",
+        "game_id": "6",
+        "name": {
+            "zh-hans": "梅酒",
+            "zh-hant": "梅酒",
+            "en": "Umeshu",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 32,
+            "tags": [1,3,4,9,12]
+        }
+    },
+    {
+        "app_id": 8,
+        "app_label_id": "tengu_tango",
+        "game_id": "7",
+        "name": {
+            "zh-hans": "天狗踊",
+            "zh-hant": "天狗踊",
+            "en": "Tengu Tango",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 70,
+            "tags": [2,3,4,6,11]
+        }
+    },
+    {
+        "app_id": 9,
+        "app_label_id": "bloody_remy",
+        "game_id": "8",
+        "name": {
+            "zh-hans": "猩红恶魔",
+            "zh-hant": "猩紅惡魔",
+            "en": "Bloody Remy",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 45,
+            "tags": [0,3,7,8]
+        }
+    },
+    {
+        "app_id": 10,
+        "app_label_id": "divine_wheat",
+        "game_id": "9",
+        "name": {
+            "zh-hans": "神之麦",
+            "zh-hant": "神之麥",
+            "en": "Divine Wheat",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 45,
+            "tags": [1,3,4,5,11]
+        }
+    },
+    {
+        "app_id": 11,
+        "app_label_id": "dassai",
+        "game_id": "10",
+        "name": {
+            "zh-hans": "水獭祭",
+            "zh-hant": "水獺祭",
+            "en": "Dassai",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 130,
+            "tags": [1,3,4,6,11]
+        }
+    },
+    {
+        "app_id": 12,
+        "app_label_id": "akatsuki",
+        "game_id": "11",
+        "name": {
+            "zh-hans": "晓",
+            "zh-hant": "曉",
+            "en": "Akatsuki",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 400,
+            "tags": [2,3,8,11]
+        }
+    },
+    {
+        "app_id": 13,
+        "app_label_id": "sparrow_sake",
+        "game_id": "12",
+        "name": {
+            "zh-hans": "雀酒",
+            "zh-hant": "雀酒",
+            "en": "Sparrow Sake",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 50,
+            "tags": [1,3,4,6,14]
+        }
+    },
+    {
+        "app_id": 14,
+        "app_label_id": "scarlet_tea",
+        "game_id": "13",
+        "name": {
+            "zh-hans": "红魔馆红茶",
+            "zh-hant": "紅魔館紅茶",
+            "en": "Scarlet Tea",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 25,
+            "tags": [-1,12,4,19]
+        }
+    },
+    {
+        "app_id": 15,
+        "app_label_id": "negroni",
+        "game_id": "14",
+        "name": {
+            "zh-hans": "尼格罗尼",
+            "zh-hant": "尼格羅尼",
+            "en": "Negroni",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 100,
+            "tags": [1,7,3,12,15,8]
+        }
+    },
+    {
+        "app_id": 16,
+        "app_label_id": "scarlet_mist",
+        "game_id": "15",
+        "name": {
+            "zh-hans": "红雾",
+            "zh-hant": "紅霧",
+            "en": "Scarlet Mist",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 75,
+            "tags": [1,4,8]
+        }
+    },
+    {
+        "app_id": 17,
+        "app_label_id": "affogato",
+        "game_id": "16",
+        "name": {
+            "zh-hans": "阿芙加朵",
+            "zh-hant": "阿芙加朵",
+            "en": "Affogato",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 35,
+            "tags": [-1,19,13,15]
+        }
+    },
+    {
+        "app_id": 18,
+        "app_label_id": "godfather",
+        "game_id": "17",
+        "name": {
+            "zh-hans": "教父",
+            "zh-hant": "教父",
+            "en": "Godfather",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 180,
+            "tags": [2,3,7,15,17]
+        }
+    },
+    {
+        "app_id": 19,
+        "app_label_id": "wind_priestness",
+        "game_id": "18",
+        "name": {
+            "zh-hans": "风祝",
+            "zh-hant": "風祝",
+            "en": "Wind Priestness",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 130,
+            "tags": [1,3,7,13,18]
+        }
+    },
+    {
+        "app_id": 20,
+        "app_label_id": "cassia_wine",
+        "game_id": "19",
+        "name": {
+            "zh-hans": "冬酿",
+            "zh-hant": "冬釀",
+            "en": "Cassia Wine",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 60,
+            "tags": [ 0, 13, 4, 3, 17 ]
+        }
+    },
+    {
+        "app_id": 21,
+        "app_label_id": "full_moons_eve",
+        "game_id": "20",
+        "name": {
+            "zh-hans": "十四夜",
+            "zh-hant": "十四夜",
+            "en": "Full Moon's Eve",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 440,
+            "tags": [ 1, 6, 3, 4, 17, 13 ]
+        }
+    },
+    {
+        "app_id": 22,
+        "app_label_id": "fire_rats_robe",
+        "game_id": "21",
+        "name": {
+            "zh-hans": "火鼠裘",
+            "zh-hant": "火鼠裘",
+            "en": "Fire Rat's Robe",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 420,
+            "tags": [ 2, 4, 14, 5 ]
+        }
+    },
+    {
+        "app_id": 23,
+        "app_label_id": "jade_dew_tea",
+        "game_id": "22",
+        "name": {
+            "zh-hans": "玉露茶",
+            "zh-hant": "玉露茶",
+            "en": "Jade Dew Tea",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 50,
+            "tags": [ -1, 17, 4 ]
+        }
+    },
+    {
+        "app_id": 24,
+        "app_label_id": "moon_rocket",
+        "game_id": "23",
+        "name": {
+            "zh-hans": "月面火箭",
+            "zh-hant": "月面火箭",
+            "en": "Moon Rocket",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 45,
+            "tags": [ -1, 3, 18, 16 ]
+        }
+    },
+    {
+        "app_id": 25,
+        "app_label_id": "milk",
+        "game_id": "24",
+        "name": {
+            "zh-hans": "牛奶",
+            "zh-hant": "牛奶",
+            "en": "Milk",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 16,
+            "tags": [ -1, 11 ]
+        }
+    },
+    {
+        "app_id": 26,
+        "app_label_id": "grapefruit_juice",
+        "game_id": "25",
+        "name": {
+            "zh-hans": "红柚果汁",
+            "zh-hant": "紅柚果汁",
+            "en": "Grapefruit Juice",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 24,
+            "tags": [ -1, 12 ]
+        }
+    },
+    {
+        "app_id": 27,
+        "app_label_id": "ramune",
+        "game_id": "26",
+        "name": {
+            "zh-hans": "波子汽水",
+            "zh-hant": "波子汽水",
+            "en": "Ramune",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 30,
+            "tags": [ -1, 16, 18 ]
+        }
+    },
+    {
+        "app_id": 28,
+        "app_label_id": "iceberg_kedama_lemonade",
+        "game_id": "27",
+        "name": {
+            "zh-hans": "冰山毛玉冻柠",
+            "zh-hant": "冰山毛玉凍檸",
+            "en": "Iceberg Kedama Lemonade",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 45,
+            "tags": [ -1, 11, 16, 19, 3, 13, 12 ]
+        }
+    },
+    {
+        "app_id": 29,
+        "app_label_id": "giant_popsicle",
+        "game_id": "28",
+        "name": {
+            "zh-hans": "「大冰棍儿！」",
+            "zh-hant": "「大冰棍兒！」",
+            "en": "GIANT Popsicle!",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 35,
+            "tags": [ -1, 19, 13, 18 ]
+        }
+    },
+
+    {
+        "app_id": 30,
+        "app_label_id": "daiginjo",
+        "game_id": "1000",
+        "name": {
+            "zh-hans": "大吟酿",
+            "zh-hant": "大吟釀",
+            "en": "Daiginjo",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "price": 210,
+            "tags": [1,6,12,3,11,13,17]
+        }
+    },
+    {
+        "app_id": 30,
+        "app_label_id": "coffee",
+        "game_id": "1001",
+        "name": {
+            "zh-hans": "咖啡",
+            "zh-hant": "咖啡",
+            "en": "Coffee",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "price": 62,
+            "tags": [-1,15,18,4,3,19]
+        }
+    },
+    {
+        "app_id": 30,
+        "app_label_id": "ice_cream_smoothie",
+        "game_id": "1003",
+        "name": {
+            "zh-hans": "古法奶油冰沙",
+            "zh-hant": "古法奶油冰沙",
+            "en": "Ice Cream Smoothie",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "price": 42,
+            "tags": [-1,13,3,17]
+        }
+    },
+    {
+        "app_id": 30,
+        "app_label_id": "ordinary_fitness_tea",
+        "game_id": "1004",
+        "name": {
+            "zh-hans": "普通健身茶",
+            "zh-hant": "普通健身茶",
+            "en": "Ordinary Fitness Tea",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "price": 32,
+            "tags": [1,15,16,9]
+        }
+    },
+    {
+        "app_id": 30,
+        "app_label_id": "fairy_dew",
+        "game_id": "1002",
+        "name": {
+            "zh-hans": "妖精雨露",
+            "zh-hant": "妖精雨露",
+            "en": "Fairy Dew",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "price": 80,
+            "tags": [-1,14,3]
+        }
+    }
+]

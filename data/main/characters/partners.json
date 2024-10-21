@@ -1,0 +1,183 @@
+[
+    {
+        "app_id": 1,
+        "app_label_id": "Kyouko",
+        "game_id": "14",
+        "game_alias": [
+            "Kyouko_Parallel",
+            "Kyouko_Current"
+        ],
+        "name": {
+            "zh-hans": "幽谷响子",
+            "zh-hant": "幽谷響子",
+            "en": "Kyouko Kasodani",
+            "ja": "幽谷響子",
+            "ko": "카소다니 쿄코"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/02-01.png",
+                "本体/03-01.png"
+            ],
+            "revenue": 0.05,
+            "moving": 2,
+            "working": 2,
+            "tips": 0,
+            "instans_cut": false
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": "幽谷响子",
+            "touhouwiki": "Kyouko_Kasodani"
+        }
+    },
+    {
+        "app_id": 2,
+        "app_label_id": "Kosuzu",
+        "game_id": "18",
+        "game_alias": [],
+        "name": {
+            "avatar": [
+                "本体/04-01.png"
+            ],
+            "zh-hans": "本居小铃",
+            "zh-hant": "本居小鈴",
+            "en": "Kosuzu Motoori",
+            "ja": "本居小鈴",
+            "ko": "모토오리 코스즈"
+        },
+        "dlc": "CORE",
+        "data": {
+            "revenue": 0.05,
+            "moving": 1,
+            "working": 3,
+            "tips": 0,
+            "instans_cut": false
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": "本居小铃",
+            "touhouwiki": "Kosuzu_Motoori"
+        }
+    },
+    {
+        "app_id": 3,
+        "app_label_id": "Aunn",
+        "game_id": "19",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "高丽野阿吽",
+            "zh-hant": "高麗野阿吽",
+            "en": "Aunn Komano",
+            "ja": "高麗野あうん",
+            "ko": "코마노 아운"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [],
+            "revenue": 0.05,
+            "moving": 3,
+            "working": 1,
+            "tips": 0,
+            "instans_cut": false
+        },
+        "links": {
+            "wikidata": "Q118255378",
+            "thwiki": "高丽野阿吽",
+            "touhouwiki": "Aunn_Komano"
+        }
+    },
+    {
+        "app_id": 4,
+        "app_label_id": "Sakuya",
+        "game_id": "20",
+        "game_alias": [
+            "Sakuya_Door"
+        ],
+        "name": {
+            "zh-hans": "十六夜咲夜",
+            "zh-hant": "十六夜咲夜",
+            "en": "Sakuya Izayoi",
+            "ja": "十六夜咲夜",
+            "ko": "이자요이 사쿠야"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/26-01.png"
+            ],
+            "revenue": 0.1,
+            "moving": 4,
+            "working": 3,
+            "tips": 0,
+            "instans_cut": false
+        },
+        "links": {
+            "wikidata": "Q3469425",
+            "thwiki": "十六夜咲夜",
+            "touhouwiki": "Sakuya_Izayoi"
+        }
+    },
+    {
+        "app_id": 5,
+        "app_label_id": "Reisen",
+        "game_id": "21",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "铃仙",
+            "zh-hant": "鈴仙",
+            "en": "Reisen Udongein Inaba",
+            "ja": "鈴仙",
+            "ko": "레이센 우동게인 이나바"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/19-01.png"
+            ],
+            "revenue": 0.1,
+            "moving": 3,
+            "working": 2,
+            "tips": 0.2,
+            "instans_cut": false
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": "Reisen_Udongein_Inaba"
+        }
+    },
+    {
+        "app_id": 6,
+        "app_label_id": "Youmu",
+        "game_id": "39",
+        "game_alias": [
+            "Youmu_Free"
+        ],
+        "name": {
+            "zh-hans": "魂魄妖梦",
+            "zh-hant": "魂魄妖夢",
+            "en": "Youmu Konpaku",
+            "ja": "魂魄妖夢",
+            "ko": "콘파쿠 요우무"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/15-01.png"
+            ],
+            "revenue": 0.1,
+            "moving": 3,
+            "working": 3,
+            "tips": 0,
+            "instans_cut": true
+        },
+        "links": {
+            "wikidata": "Q31179039",
+            "thwiki": "魂魄妖梦",
+            "touhouwiki": "Youmu_Konpaku",
+            "rare_guests": "Youmu"
+        }
+    }
+]

@@ -1,0 +1,1520 @@
+[
+    {
+        "app_id": 1,
+        "app_label_id": "Wriggle",
+        "game_id": "0",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "莉格露",
+            "zh-hant": "莉格露",
+            "en": "Wriggle Nightbug",
+            "ja": "リグル",
+            "ko": "리글 나이트버그"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/18-01.png"
+            ],
+            "likes": [
+                17,
+                0,
+                18,
+                24
+            ],
+            "hates": [
+                2,
+                7,
+                21
+            ],
+            "drinks": [
+                0,
+                3
+            ],
+            "budget": [
+                200,
+                400
+            ],
+            "visits": [
+                "BeastForest",
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q122928337",
+            "thwiki": null,
+            "touhouwiki": "Wriggle_Nightbug"
+        }
+    },
+    {
+        "app_id": 2,
+        "app_label_id": "Rumia",
+        "game_id": "1",
+        "name": {
+            "zh-hans": "露米娅",
+            "zh-hant": "露米婭",
+            "en": "Rumia",
+            "ja": "ルーミア",
+            "ko": "루미아"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/20-01.png"
+            ],
+            "likes": [
+                19,
+                0,
+                9,
+                18,
+                -20,
+                24
+            ],
+            "hates": [
+                8,
+                -21,
+                -3
+            ],
+            "drinks": [
+                15,
+                16
+            ],
+            "budget": [
+                150,
+                350
+            ],
+            "visits": [
+                "BeastForest",
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q41560453",
+            "thwiki": null,
+            "touhouwiki": "Rumia"
+        }
+    },
+    {
+        "app_id": 3,
+        "app_label_id": "Chen",
+        "game_id": "2",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "橙",
+            "zh-hant": "橙",
+            "en": "Chen",
+            "ja": "橙",
+            "ko": "첸"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/09-01.png"
+            ],
+            "likes": [
+                17,
+                1,
+                33,
+                6,
+                0,
+                -20
+            ],
+            "hates": [
+                2,
+                24,
+                22,
+                -21
+            ],
+            "drinks": [
+                12,
+                14
+            ],
+            "budget": [
+                400,
+                600
+            ],
+            "visits": [
+                "BeastForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q116693479",
+            "thwiki": null,
+            "touhouwiki": "Chen"
+        }
+    },
+    {
+        "app_id": 4,
+        "app_label_id": "Akyuu",
+        "game_id": "3",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "稗田阿求",
+            "zh-hant": "稗田阿求",
+            "en": "Hieda no Akyuu",
+            "ja": "稗田阿求",
+            "ko": "히에다노 아큐"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/07-01.png"
+            ],
+            "likes": [
+                32,
+                7,
+                12,
+                17,
+                4,
+                25,
+                -20
+            ],
+            "hates": [
+                -21,
+                22,
+                6,
+                15
+            ],
+            "drinks": [
+                4,
+                6
+            ],
+            "budget": [
+                500,
+                800
+            ],
+            "visits": [
+                "HumanVillage"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": "Hieda_no_Akyuu"
+        }
+    },
+    {
+        "app_id": 5,
+        "app_label_id": "Keine",
+        "game_id": "4",
+        "game_alias": [
+            "Keine_Intro"
+        ],
+        "name": {
+            "zh-hans": "上白泽慧音",
+            "zh-hant": "上白澤慧音",
+            "en": "Keine Kamishirasawa",
+            "ja": "上白沢慧音",
+            "ko": "카미시라사와 케이네"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/06-01.png",
+                "本体/25-01.png"
+            ],
+            "likes": [
+                14,
+                12,
+                25,
+                3,
+                2,
+                7,
+                -20
+            ],
+            "hates": [
+                -21,
+                6,
+                -1,
+                15
+            ],
+            "drinks": [
+                6,
+                5,
+                9
+            ],
+            "budget": [
+                400,
+                800
+            ],
+            "visits": [
+                "HumanVillage",
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": "Keine_Kamishirasawa"
+        }
+    },
+    {
+        "app_id": 6,
+        "app_label_id": "Kasen",
+        "game_id": "5",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "茨木华扇",
+            "zh-hant": "茨木華扇",
+            "en": "Kasen Ibaraki",
+            "ja": "茨木華扇",
+            "ko": "이바라키 카센"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/10-01.png"
+            ],
+            "likes": [
+                8,
+                3,
+                12,
+                25
+            ],
+            "hates": [
+                -2,
+                34,
+                18
+            ],
+            "drinks": [
+                11,
+                1,
+                17
+            ],
+            "budget": [
+                400,
+                600
+            ],
+            "visits": [
+                "HumanVillage"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": "Kasen_Ibaraki"
+        }
+    },
+    {
+        "app_id": 7,
+        "app_label_id": "Rinnosuke",
+        "game_id": "6",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "森近霖之助",
+            "zh-hant": "森近霖之助",
+            "en": "Rinnosuke Morichika",
+            "ja": "森近霖之助",
+            "ko": "모리치카 린노스케"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/24-01.png"
+            ],
+            "likes": [
+                17,
+                -2,
+                9,
+                27,
+                4,
+                -20
+            ],
+            "hates": [
+                -3,
+                8,
+                -21
+            ],
+            "drinks": [
+                5,
+                10
+            ],
+            "budget": [
+                250,
+                400
+            ],
+            "visits": [
+                "HumanVillage"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": "Rinnosuke_Morichika"
+        }
+    },
+    {
+        "app_id": 8,
+        "app_label_id": "Reimu",
+        "game_id": "7",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "博丽灵梦",
+            "zh-hant": "博麗靈夢",
+            "en": "Reimu Hakurei",
+            "ja": "博麗霊夢",
+            "ko": "하쿠레이 레이무"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/08-01.png"
+            ],
+            "likes": [
+                17,
+                -2,
+                9,
+                27,
+                4,
+                -20
+            ],
+            "hates": [
+                -3,
+                8,
+                -21
+            ],
+            "drinks": [
+                0,
+                -1,
+                4
+            ],
+            "budget": [
+                150,
+                300
+            ],
+            "visits": [
+                "BeastForest",
+                "HumanVillage",
+                "HakureiShrine",
+                "DLC1_YoukaiMountain",
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q851352",
+            "thwiki": null,
+            "touhouwiki": "Reimu_Hakurei"
+        }
+    },
+    {
+        "app_id": 9,
+        "app_label_id": "Tenshi",
+        "game_id": "9",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "比那名居天子",
+            "zh-hant": "比那名居天子",
+            "en": "Tenshi Hinanawi",
+            "ja": "比那名居天子",
+            "ko": "히나나위 텐시"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/29-01.png"
+            ],
+            "likes": [
+                5,
+                31,
+                -3,
+                17,
+                20,
+                2,
+                7,
+                -21
+            ],
+            "hates": [
+                0,
+                3,
+                -20,
+                6
+            ],
+            "drinks": [
+                2,
+                7
+            ],
+            "budget": [
+                2000,
+                3000
+            ],
+            "visits": [
+                "HakureiShrine",
+                "DLC1_YoukaiMountain"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": "Tenshi_Hinanawi"
+        }
+    },
+    {
+        "app_id": 10,
+        "app_label_id": "Suika",
+        "game_id": "8",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "伊吹萃香",
+            "zh-hant": "伊吹萃香",
+            "en": "Suika Ibuki",
+            "ja": "伊吹萃香",
+            "ko": "이부키 스이카"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/34-01.png"
+            ],
+            "likes": [
+                23,
+                0,
+                8,
+                28,
+                12,
+                -20
+            ],
+            "hates": [
+                6,
+                -21
+            ],
+            "drinks": [
+                11,
+                2
+            ],
+            "budget": [
+                600,
+                800
+            ],
+            "visits": [
+                "HakureiShrine",
+                "DLC1_YoukaiMountain"
+            ]
+        },
+        "links": {
+            "wikidata": "Q113367697",
+            "thwiki": null,
+            "touhouwiki": "Suika_Ibuki"
+        }
+    },
+    {
+        "app_id": 11,
+        "app_label_id": "Marisa",
+        "game_id": "10",
+        "game_alias": [
+            "DLC1_Marisa"
+        ],
+        "name": {
+            "zh-hans": "雾雨魔理沙",
+            "zh-hant": "霧雨魔理沙",
+            "en": "Marisa Kirisame",
+            "ja": "霧雨魔理沙",
+            "ko": "키리사메 마리사"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/30-01.png"
+            ],
+            "likes": [
+                12,
+                -20,
+                26,
+                6,
+                5,
+                22
+            ],
+            "hates": [
+                -21,
+                24
+            ],
+            "drinks": [
+                3,
+                0
+            ],
+            "budget": [
+                3000,
+                5000
+            ],
+            "visits": [
+                "BeastForest",
+                "HumanVillage",
+                "HakureiShrine",
+                "ScarletMansion",
+                "BambooForest",
+                "DLC1_YoukaiMountain",
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q3293703",
+            "thwiki": "雾雨魔理沙",
+            "touhouwiki": "Marisa_Kirisame"
+        }
+    },
+    {
+        "app_id": 12,
+        "app_label_id": "Meirin",
+        "game_id": "15",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "红美铃",
+            "zh-hant": "紅美鈴",
+            "en": "Hong Meiling",
+            "ja": "紅美鈴",
+            "ko": "홍 메이링"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/13-01.png"
+            ],
+            "likes": [
+                14,
+                23,
+                0,
+                9,
+                -20
+            ],
+            "hates": [
+                24,
+                -21,
+                31,
+                13
+            ],
+            "drinks": [
+                19,
+                17,
+                4
+            ],
+            "budget": [
+                200,
+                400
+            ],
+            "visits": [
+                "ScarletMansion"
+            ]
+        },
+        "links": {
+            "wikidata": "Q41560549",
+            "thwiki": null,
+            "touhouwiki": "Hong_Meiling"
+        }
+    },
+    {
+        "app_id": 13,
+        "app_label_id": "Cirno",
+        "game_id": "28",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "琪露诺",
+            "zh-hant": "琪露諾",
+            "en": "Cirno",
+            "ja": "チルノ",
+            "ko": "치르노"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/23-01.png"
+            ],
+            "likes": [
+                17,
+                20,
+                21,
+                -21,
+                24
+            ],
+            "hates": [
+                -3,
+                25,
+                8,
+                -20
+            ],
+            "drinks": [
+                3,
+                12,
+                13
+            ],
+            "budget": [
+                100,
+                200
+            ],
+            "visits": [
+                "ScarletMansion",
+                "DLC1_YoukaiMountain"
+            ]
+        },
+        "links": {
+            "wikidata": "Q16549259",
+            "thwiki": null,
+            "touhouwiki": "Cirno"
+        }
+    },
+    {
+        "app_id": 14,
+        "app_label_id": "Patchouli",
+        "game_id": "27",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "帕秋莉",
+            "zh-hant": "帕秋莉",
+            "en": "Patchouli Knowledge",
+            "ja": "パチュリー",
+            "ko": "파츄리 널릿지"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/21-01.png"
+            ],
+            "likes": [
+                13,
+                17,
+                4,
+                29,
+                20
+            ],
+            "hates": [
+                18,
+                22,
+                24,
+                15
+            ],
+            "drinks": [
+                7,
+                9,
+                16
+            ],
+            "budget": [
+                600,
+                1000
+            ],
+            "visits": [
+                "ScarletMansion",
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q41560892",
+            "thwiki": null,
+            "touhouwiki": "Patchouli_Knowledge"
+        }
+    },
+    {
+        "app_id": 15,
+        "app_label_id": "Remilia",
+        "game_id": "22",
+        "game_alias": [
+            "Remilia_Umbrella"
+        ],
+        "name": {
+            "zh-hans": "蕾米莉亚",
+            "zh-hant": "蕾米莉亞",
+            "en": "Remilia Scarlet",
+            "ja": "レミリア",
+            "ko": "레밀리아 스칼렛"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/16-01.png"
+            ],
+            "likes": [
+                13,
+                4,
+                17,
+                18
+            ],
+            "drinks": [
+                13,
+                8,
+                17,
+                12
+            ],
+            "budget": [
+                null,
+                null
+            ],
+            "visits": [
+                null
+            ]
+        },
+        "links": {
+            "wikidata": "Q41560979",
+            "thwiki": null,
+            "touhouwiki": "Remilia_Scarlet"
+        }
+    },
+    {
+        "app_id": 16,
+        "app_label_id": "Kaguya",
+        "game_id": "25",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "蓬莱山辉夜",
+            "zh-hant": "蓬萊山輝夜",
+            "en": "Kaguya Houraisan",
+            "ja": "蓬莱山輝夜",
+            "ko": "호라이산 카구야"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/22-01.png"
+            ],
+            "likes": [
+                25,
+                27,
+                12,
+                5,
+                -20
+            ],
+            "hates": [
+                -1,
+                19,
+                24,
+                -21
+            ],
+            "drinks": [
+                6,
+                18,
+                17
+            ],
+            "budget": [
+                1000,
+                1500
+            ],
+            "visits": [
+                "BambooForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q117772375",
+            "thwiki": null,
+            "touhouwiki": "Kaguya_Houraisan"
+        }
+    },
+    {
+        "app_id": 17,
+        "app_label_id": "Tewi",
+        "game_id": "29",
+        "game_alias": [
+            "Tewi_HardSell"
+        ],
+        "name": {
+            "zh-hans": "因幡帝",
+            "zh-hant": "因幡帝",
+            "en": "Tewi Inaba",
+            "ja": "因幡てゐ",
+            "ko": "이나바 테위"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/12-01.png"
+            ],
+            "likes": [
+                5,
+                17,
+                28,
+                21,
+                29,
+                -20
+            ],
+            "hates": [
+                24,
+                6,
+                10,
+                -21
+            ],
+            "drinks": [
+                13,
+                12,
+                -1
+            ],
+            "budget": [
+                200,
+                400
+            ],
+            "visits": [
+                "BambooForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q10381018",
+            "thwiki": null,
+            "touhouwiki": "Tewi_Inaba"
+        }
+    },
+    {
+        "app_id": 18,
+        "app_label_id": "Mokou",
+        "game_id": "24",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "藤原妹红",
+            "zh-hant": "藤原妹紅",
+            "en": "Fujiwara no Mokou",
+            "ja": "藤原妹紅",
+            "ko": "후지와라노 모코우"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/28-01.png"
+            ],
+            "likes": [
+                34,
+                35,
+                33,
+                31,
+                22
+            ],
+            "hates": [
+                4,
+                -3,
+                27
+            ],
+            "drinks": [
+                14,
+                5,
+                15
+            ],
+            "budget": [
+                300,
+                600
+            ],
+            "visits": [
+                "BeastForest",
+                "BambooForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q117771740",
+            "thwiki": null,
+            "touhouwiki": "Fujiwara_no_Mokou"
+        }
+    },
+    {
+        "app_id": 19,
+        "app_label_id": "Youmu",
+        "game_id": "39",
+        "game_alias": [
+            "Youmu_Free"
+        ],
+        "name": {
+            "zh-hans": "魂魄妖梦",
+            "zh-hant": "魂魄妖夢",
+            "en": "Youmu Konpaku",
+            "ja": "魂魄妖夢",
+            "ko": "콘파쿠 요우무"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/15-01.png"
+            ],
+            "likes": [
+                23,
+                16,
+                7,
+                3
+            ],
+            "hates": [
+                24
+            ],
+            "drinks": [
+                12,
+                -1,
+                4
+            ],
+            "budget": [
+                300,
+                400
+            ],
+            "visits": [
+                "HumanVillage",
+                "BambooForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q31179039",
+            "thwiki": "魂魄妖梦",
+            "touhouwiki": "Youmu_Konpaku",
+            "partners": "Youmu"
+        }
+    },
+    {
+        "app_id": 20,
+        "app_label_id": "Yuyuko",
+        "game_id": "40",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "西行寺幽幽子",
+            "zh-hant": "西行寺幽幽子",
+            "en": "Yuyuko Saigyouji",
+            "ja": "西行寺幽々子",
+            "ko": "사이교우지 유유코"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/31-01.png"
+            ],
+            "likes": [
+                -1,
+                1,
+                4,
+                5,
+                9,
+                12
+            ],
+            "hates": [
+                2,
+                7
+            ],
+            "drinks": [
+                2
+            ],
+            "budget": [
+                1500,
+                2000
+            ],
+            "visits": [
+                null
+            ]
+        },
+        "links": {
+            "wikidata": "Q52621416",
+            "thwiki": null,
+            "touhouwiki": "Yuyuko_Saigyouji"
+        }
+    },
+    {
+        "app_id": 21,
+        "app_label_id": "Nitori",
+        "game_id": "1000",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "河城荷取",
+            "zh-hant": "河城荷取",
+            "en": "Nitori Kawashiro",
+            "ja": "河城にとり",
+            "ko": "카와시로 니토리"
+        },
+        "dlc": "DLC1",
+        "data": {
+            "avatar": [
+                "DLC1/03-01.png"
+            ],
+            "likes": [
+                8,
+                19,
+                15,
+                1,
+                4,
+                24
+            ],
+            "hates": [
+                2,
+                10,
+                25
+            ],
+            "drinks": [
+                2,
+                1,
+                11,
+                6
+            ],
+            "budget": [
+                400,
+                500
+            ],
+            "visits": [
+                "DLC1_YoukaiMountain"
+            ]
+        },
+        "links": {
+            "wikidata": "Q10337050",
+            "thwiki": null,
+            "touhouwiki": "Nitori_Kawashiro"
+        }
+    },
+    {
+        "app_id": 22,
+        "app_label_id": "Momizi",
+        "game_id": "1001",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "犬走椛",
+            "zh-hant": "犬走椛",
+            "en": "Momiji Inubashiri",
+            "ja": "犬走椛",
+            "ko": "이누바시리 모미지"
+        },
+        "dlc": "DLC1",
+        "data": {
+            "avatar": [
+                "DLC1/06-01.png"
+            ],
+            "likes": [
+                6,
+                8,
+                -1,
+                0,
+                10
+            ],
+            "hates": [
+                24
+            ],
+            "drinks": [
+                11,
+                1,
+                2
+            ],
+            "budget": [
+                300,
+                400
+            ],
+            "visits": [
+                "DLC1_YoukaiMountain"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": "Momiji_Inubashiri"
+        }
+    },
+    {
+        "app_id": 23,
+        "app_label_id": "Sanae",
+        "game_id": "1005",
+        "game_alias": [
+            "DLC1_Sanae"
+        ],
+        "name": {
+            "zh-hans": "东风谷早苗",
+            "zh-hant": "東風谷早苗",
+            "en": "Sanae Kochiya",
+            "ja": "東風谷早苗",
+            "ko": "코치야 사나에"
+        },
+        "dlc": "DLC1",
+        "data": {
+            "avatar": [
+                "DLC1/02-01.png"
+            ],
+            "likes": [
+                12,
+                20,
+                -20,
+                17,
+                29,
+                3
+            ],
+            "hates": [
+                18,
+                24
+            ],
+            "drinks": [
+                12,
+                0,
+                11,
+                15,
+                6,
+                18,
+                16,
+                -1,
+                13
+            ],
+            "budget": [
+                400,
+                600
+            ],
+            "visits": [
+                "DLC1_YoukaiMountain",
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q97378672",
+            "thwiki": null,
+            "touhouwiki": "Sanae_Kochiya"
+        }
+    },
+    {
+        "app_id": 24,
+        "app_label_id": "Alice",
+        "game_id": "1002",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "爱丽丝",
+            "zh-hant": "愛麗絲",
+            "en": "Alice",
+            "ja": "アリス",
+            "ko": "앨리스 마가트로이드"
+        },
+        "dlc": "DLC1",
+        "data": {
+            "avatar": [
+                "DLC1/01-01.png"
+            ],
+            "likes": [
+                17,
+                4,
+                3,
+                13,
+                25
+            ],
+            "hates": [
+                9,
+                0
+            ],
+            "drinks": [
+                0,
+                18,
+                8
+            ],
+            "budget": [
+                500,
+                800
+            ],
+            "visits": [
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": "Q18237323",
+            "thwiki": null,
+            "touhouwiki": "Alice_Margatroid"
+        }
+    },
+    {
+        "app_id": 25,
+        "app_label_id": "Narumi",
+        "game_id": "1004",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "矢田寺成美",
+            "zh-hant": "矢田寺成美",
+            "en": "Narumi Yatadera",
+            "ja": "矢田寺成美",
+            "ko": "야타데라 나루미"
+        },
+        "dlc": "DLC1",
+        "data": {
+            "avatar": [
+                "DLC1/07-01.png"
+            ],
+            "likes": [
+                12,
+                7,
+                25,
+                30,
+                10
+            ],
+            "hates": [
+                9
+            ],
+            "drinks": [
+                3,
+                1,
+                11,
+                0
+            ],
+            "budget": [
+                300,
+                600
+            ],
+            "visits": [
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": "Narumi_Yatadera"
+        }
+    },
+    {
+        "app_id": 26,
+        "app_label_id": "Toutetsu",
+        "game_id": "1003",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "饕餮尤魔",
+            "zh-hant": "饕餮尤魔",
+            "en": "Yuuma Toutetsu",
+            "ja": "饕餮尤魔",
+            "ko": "토테츠 유마"
+        },
+        "dlc": "DLC1",
+        "data": {
+            "avatar": [
+                "DLC1/08-01.png"
+            ],
+            "likes": [
+                4,
+                18,
+                -1,
+                0,
+                9,
+                16
+            ],
+            "drinks": [
+                5,
+                14
+            ],
+            "budget": [
+                9999,
+                9999
+            ],
+            "visits": [
+                "BeastForest",
+                "HakureiShrine",
+                "ScarletMansion",
+                "BambooForest",
+                "DLC1_YoukaiMountain",
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": "Yuuma_Toutetsu"
+        }
+    },
+    {
+        "app_id": 27,
+        "app_label_id": "MengChengGuo",
+        "game_id": "30",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "萌澄果",
+            "zh-hant": "萌澄果",
+            "en": "Meng Chengguo",
+            "ja": "",
+            "ko": "모에 스미카"
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                1,
+                -20,
+                0,
+                29,
+                17
+            ],
+            "hates": [
+                24
+            ],
+            "drinks": [
+                3,
+                12,
+                14,
+                13
+            ],
+            "budget": [
+                1200,
+                1600
+            ],
+            "visits": [
+                "BeastForest",
+                "HumanVillage",
+                "HakureiShrine",
+                "ScarletMansion",
+                "BambooForest",
+                "DLC1_YoukaiMountain",
+                "DLC1_MagicForest"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": null
+        }
+    },
+    {
+        "app_id": 28,
+        "app_label_id": "ThreeFairies",
+        "game_id": "31",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "蹦蹦跳跳的三妖精",
+            "zh-hant": "蹦蹦跳跳的三妖精",
+            "en": "Three Fairies",
+            "ja": "",
+            "ko": "삼원정"
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                21,
+                17,
+                29,
+                -20,
+                28,
+                26,
+                3
+            ],
+            "hates": [
+                18
+            ],
+            "drinks": [
+                15,
+                13,
+                -1,
+                12
+            ],
+            "budget": [
+                300,
+                400
+            ],
+            "visits": [
+                "BeastForest",
+                "BambooForest",
+                "DLC1_YoukaiMountain"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": null
+        }
+    },
+    {
+        "app_id": 29,
+        "app_label_id": "Rin",
+        "game_id": "36",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "冴月麟",
+            "zh-hant": "冴月麟",
+            "en": "Rin Satsuki",
+            "ja": "",
+            "ko": "사츠키 린"
+        },
+        "dlc": "CORE",
+        "data": {
+            "likes": [
+                34,
+                1,
+                14,
+                3
+            ],
+            "hates": [
+                6,
+                8
+            ],
+            "drinks": [
+                16,
+                -1,
+                13
+            ],
+            "budget": [
+                400,
+                600
+            ],
+            "visits": [
+                "HumanVillage",
+                "BambooForest"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": null
+        }
+    },
+    {
+        "app_id": 30,
+        "app_label_id": "Ushio",
+        "game_id": "37",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "立空汐",
+            "zh-hant": "立空汐",
+            "en": "Shio Tachisora",
+            "ja": "",
+            "ko": "타치소라 시오"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/17-01.png"
+            ],
+            "likes": [
+                23,
+                -3,
+                0,
+                8,
+                10,
+                12
+            ],
+            "hates": [
+                7,
+                -20
+            ],
+            "drinks": [
+                3,
+                2,
+                4
+            ],
+            "budget": [
+                500,
+                800
+            ],
+            "visits": [
+                "HumanVillage",
+                "BambooForest"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": null
+        }
+    },
+    {
+        "app_id": 31,
+        "app_label_id": "Yuu",
+        "game_id": "38",
+        "game_alias": [],
+        "name": {
+            "zh-hans": "时焉侑",
+            "zh-hant": "時焉侑",
+            "en": "Jien Yuu",
+            "ja": "",
+            "ko": "지엔 유우"
+        },
+        "dlc": "CORE",
+        "data": {
+            "avatar": [
+                "本体/27-01.png"
+            ],
+            "likes": [
+                13,
+                14,
+                25,
+                8
+            ],
+            "drinks": [
+                1,
+                3
+            ],
+            "budget": [
+                1300,
+                1800
+            ],
+            "visits": [
+                "HumanVillage"
+            ]
+        },
+        "links": {
+            "wikidata": null,
+            "thwiki": null,
+            "touhouwiki": null
+        }
+    }
+]
