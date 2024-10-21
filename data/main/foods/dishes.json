@@ -1,1 +1,1886 @@
-[]
+[
+    {
+        "app_id": 1,
+        "app_label_id": "",
+        "game_id": 0,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "海鮮味噌湯",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {},
+        "links": null
+    },
+    {
+        "app_id": 2,
+        "app_label_id": "",
+        "game_id": 4,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "烤八目鰻",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {},
+        "links": null
+    },
+    {
+        "app_id": 3,
+        "app_label_id": "",
+        "game_id": 5,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "能量串",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {},
+        "links": null
+    },
+    {
+        "app_id": 4,
+        "app_label_id": "",
+        "game_id": 12,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "冷豆腐",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {},
+        "links": null
+    },
+    {
+        "app_id": 5,
+        "app_label_id": "",
+        "game_id": -1,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "黑暗料理",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {},
+        "links": null
+    },
+    {
+        "app_id": 6,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 7,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 8,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 9,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 10,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 11,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 12,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 13,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 14,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 15,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 16,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 17,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 18,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 19,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 20,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 21,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 22,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 23,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 24,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 25,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 26,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 27,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 28,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 29,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 30,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 31,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 32,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 33,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 34,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 35,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 36,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 37,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 38,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 39,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 40,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 41,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 42,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 43,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 44,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 45,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 46,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 47,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 48,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 49,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 50,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 51,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 52,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 53,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 54,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 55,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 56,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 57,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 58,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 59,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 60,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 61,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 62,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 63,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 64,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 65,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 66,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 67,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 68,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 69,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 70,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 71,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 72,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 73,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 74,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 75,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 76,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 77,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 78,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 79,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 80,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 81,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 82,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 83,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 84,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 85,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 86,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    },
+    {
+        "app_id": 87,
+        "app_label_id": "",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "",
+            "en": "",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "CORE",
+        "data": {
+            "price": 0,
+            "level": 0,
+            "time": 0,
+            "cooker": 0,
+            "tags": [],
+            "conflicts": []
+        }
+    }
+]
