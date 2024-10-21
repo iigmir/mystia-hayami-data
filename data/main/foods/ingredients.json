@@ -101,7 +101,7 @@
         "game_id": 6,
         "name": {
             "zh-hans": "土豆",
-            "zh-hant": "馬鈴薯",
+            "zh-hant": "土豆 馬鈴薯",
             "en": "",
             "ja": "",
             "ko": ""
@@ -435,8 +435,8 @@
         "app_label_id": "",
         "game_id": 27,
         "name": {
-            "zh-hans": "",
-            "zh-hant": "994",
+            "zh-hans": "露水",
+            "zh-hant": "露水",
             "en": "",
             "ja": "",
             "ko": ""
@@ -451,8 +451,8 @@
         "app_label_id": "",
         "game_id": 28,
         "name": {
-            "zh-hans": "露水",
-            "zh-hant": "露水",
+            "zh-hans": "竹笋",
+            "zh-hant": "竹筍",
             "en": "",
             "ja": "",
             "ko": ""
@@ -467,8 +467,8 @@
         "app_label_id": "",
         "game_id": 29,
         "name": {
-            "zh-hans": "",
-            "zh-hant": "353",
+            "zh-hans": "黃油",
+            "zh-hant": "黃油 奶油",
             "en": "",
             "ja": "",
             "ko": ""
@@ -483,8 +483,8 @@
         "app_label_id": "",
         "game_id": 30,
         "name": {
-            "zh-hans": "黃油",
-            "zh-hant": "奶油",
+            "zh-hans": "麵粉",
+            "zh-hant": "麵粉",
             "en": "",
             "ja": "",
             "ko": ""
@@ -499,7 +499,7 @@
         "app_label_id": "",
         "game_id": 31,
         "name": {
-            "zh-hans": "",
+            "zh-hans": "竹子",
             "zh-hant": "竹子",
             "en": "",
             "ja": "",
