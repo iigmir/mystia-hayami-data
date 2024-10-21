@@ -17,12 +17,12 @@
     },
     {
         "app_id": 2,
-        "app_label_id": "",
+        "app_label_id": "pork",
         "game_id": 1,
         "name": {
             "zh-hans": "",
             "zh-hant": "豬肉",
-            "en": "",
+            "en": "Pork",
             "ja": "",
             "ko": ""
         },
@@ -33,12 +33,12 @@
     },
     {
         "app_id": 3,
-        "app_label_id": "",
+        "app_label_id": "beef",
         "game_id": 2,
         "name": {
             "zh-hans": "",
             "zh-hant": "牛肉",
-            "en": "",
+            "en": "Beef",
             "ja": "",
             "ko": ""
         },
@@ -49,12 +49,12 @@
     },
     {
         "app_id": 4,
-        "app_label_id": "",
+        "app_label_id": "venison",
         "game_id": 3,
         "name": {
             "zh-hans": "",
             "zh-hant": "鹿肉",
-            "en": "",
+            "en": "Venison",
             "ja": "",
             "ko": ""
         },
@@ -65,12 +65,12 @@
     },
     {
         "app_id": 5,
-        "app_label_id": "",
+        "app_label_id": "boar_meat",
         "game_id": 4,
         "name": {
             "zh-hans": "",
             "zh-hant": "山豬肉",
-            "en": "",
+            "en": "Boar Meat",
             "ja": "",
             "ko": ""
         },
@@ -97,12 +97,12 @@
     },
     {
         "app_id": 7,
-        "app_label_id": "",
+        "app_label_id": "potato",
         "game_id": 6,
         "name": {
             "zh-hans": "土豆",
-            "zh-hant": "土豆 馬鈴薯",
-            "en": "",
+            "zh-hant": "土豆",
+            "en": "Potato",
             "ja": "",
             "ko": ""
         },
@@ -113,12 +113,12 @@
     },
     {
         "app_id": 8,
-        "app_label_id": "",
+        "app_label_id": "onion",
         "game_id": 7,
         "name": {
             "zh-hans": "",
             "zh-hant": "洋蔥",
-            "ja": "",
+            "ja": "Onion",
             "ko": ""
         },
         "dlc": "CORE",
@@ -128,12 +128,12 @@
     },
     {
         "app_id": 9,
-        "app_label_id": "",
+        "app_label_id": "pumpkin",
         "game_id": 8,
         "name": {
             "zh-hans": "",
             "zh-hant": "南瓜",
-            "en": "",
+            "en": "Pumpkin",
             "ja": "",
             "ko": ""
         },
@@ -144,12 +144,12 @@
     },
     {
         "app_id": 10,
-        "app_label_id": "",
+        "app_label_id": "radish",
         "game_id": 9,
         "name": {
             "zh-hans": "",
             "zh-hant": "羅蔔",
-            "en": "",
+            "en": "Radish",
             "ja": "",
             "ko": ""
         },
@@ -208,12 +208,12 @@
     },
     {
         "app_id": 14,
-        "app_label_id": "",
+        "app_label_id": "salmon",
         "game_id": 13,
         "name": {
             "zh-hans": "三文魚",
-            "zh-hant": "鮭魚",
-            "en": "",
+            "zh-hant": "三文魚",
+            "en": "Salmon",
             "ja": "",
             "ko": ""
         },
@@ -240,12 +240,12 @@
     },
     {
         "app_id": 16,
-        "app_label_id": "",
+        "app_label_id": "iberico_pork",
         "game_id": 15,
         "name": {
             "zh-hans": "",
             "zh-hant": "黑毛豬肉",
-            "en": "",
+            "en": "Iberico Pork",
             "ja": "",
             "ko": ""
         },
@@ -256,12 +256,12 @@
     },
     {
         "app_id": 17,
-        "app_label_id": "",
+        "app_label_id": "wagyu_beef",
         "game_id": 16,
         "name": {
-            "zh-hans": "",
+            "zh-hans": "和牛",
             "zh-hant": "和牛",
-            "en": "",
+            "en": "Wagyu Beef",
             "ja": "",
             "ko": ""
         },
@@ -384,12 +384,12 @@
     },
     {
         "app_id": 25,
-        "app_label_id": "",
+        "app_label_id": "honey",
         "game_id": 24,
         "name": {
             "zh-hans": "",
             "zh-hant": "蜂蜜",
-            "en": "",
+            "en": "Honey",
             "ja": "",
             "ko": ""
         },
@@ -468,7 +468,7 @@
         "game_id": 29,
         "name": {
             "zh-hans": "黃油",
-            "zh-hant": "黃油 奶油",
+            "zh-hant": "黃油",
             "en": "",
             "ja": "",
             "ko": ""
@@ -480,12 +480,12 @@
     },
     {
         "app_id": 31,
-        "app_label_id": "",
+        "app_label_id": "flour",
         "game_id": 30,
         "name": {
             "zh-hans": "麵粉",
             "zh-hant": "麵粉",
-            "en": "",
+            "en": "Flour",
             "ja": "",
             "ko": ""
         },
@@ -496,12 +496,12 @@
     },
     {
         "app_id": 32,
-        "app_label_id": "",
+        "app_label_id": "bamboo",
         "game_id": 31,
         "name": {
             "zh-hans": "竹子",
             "zh-hant": "竹子",
-            "en": "",
+            "en": "Bamboo",
             "ja": "",
             "ko": ""
         },
