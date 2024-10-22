@@ -81,12 +81,12 @@
     },
     {
         "app_id": 6,
-        "app_label_id": "",
+        "app_label_id": "tofu",
         "game_id": 5,
         "name": {
             "zh-hans": "豆腐",
             "zh-hant": "豆腐",
-            "en": "",
+            "en": "Tofu",
             "ja": "",
             "ko": ""
         },

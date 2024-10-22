@@ -112,12 +112,15 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
-            "level": 0,
-            "time": 0,
+            "price": 21,
+            "level": 2,
+            "time": 3,
             "cooker": 0,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [
+                5,
+                9
+            ],
+            "tags": [ 2, 3, 7, 8, 28 ],
             "conflicts": []
         },
         "links": null
@@ -128,7 +131,7 @@
         "game_id": -1,
         "game_alias": [],
         "name": {
-            "zh-hans": "",
+            "zh-hans": "黑暗料理",
             "zh-hant": "黑暗料理",
             "en": "Dark Matter",
             "ja": "",
@@ -136,8 +139,8 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
-            "level": 0,
+            "price": 1,
+            "level": 1,
             "time": 0,
             "cooker": 0,
             "ingredients": [],
@@ -148,13 +151,13 @@
     },
     {
         "app_id": 6,
-        "app_label_id": "",
+        "app_label_id": "rice_ball",
         "game_id": null,
         "game_alias": [],
         "name": {
-            "zh-hans": "",
+            "zh-hans": "饭团",
             "zh-hant": "飯糰",
-            "en": "Rice Ballqqq",
+            "en": "Rice Ball",
             "ja": "",
             "ko": ""
         },
@@ -164,8 +167,8 @@
             "level": 0,
             "time": 0,
             "cooker": 0,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 10 ],
+            "tags": [ -2, 2, 3, 9, 12 ],
             "conflicts": []
         },
         "links": null
@@ -184,12 +187,12 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
-            "level": 0,
-            "time": 0,
+            "price": 30,
+            "level": 2,
+            "time": 4.8,
             "cooker": 0,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 11 ],
+            "tags": [ 1, 15, 16, 28 ],
             "conflicts": []
         },
         "links": null
@@ -212,8 +215,8 @@
             "level": 0,
             "time": 0,
             "cooker": 0,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 5, 35 ],
+            "tags": [ 2, 14, 24, 34 ],
             "conflicts": []
         },
         "links": null
@@ -232,12 +235,12 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
-            "level": 0,
-            "time": 0,
+            "price": 22,
+            "level": 1,
+            "time": 4.2,
             "cooker": 0,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 5 ],
+            "tags": [ 2, 3, 7 ],
             "conflicts": []
         },
         "links": null
@@ -256,19 +259,19 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
-            "level": 0,
-            "time": 0,
+            "price": 18,
+            "level": 2,
+            "time": 1.8,
             "cooker": 0,
-            "ingredients": [],
-            "tags": [],
-            "conflicts": []
+            "ingredients": [ 27, 0 ],
+            "tags": [ -2, 7, 18 ],
+            "conflicts": [ 0, 1, 6 ]
         },
         "links": null
     },
     {
         "app_id": 11,
-        "app_label_id": "",
+        "app_label_id": "roasted_mushroom",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -280,19 +283,19 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
-            "level": 0,
-            "time": 0,
+            "price": 18,
+            "level": 1,
+            "time": 3.6,
             "cooker": 0,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 17 ],
+            "tags": [ -2, 2, 15, 22, 26, 33 ],
             "conflicts": []
         },
         "links": null
     },
     {
         "app_id": 12,
-        "app_label_id": "",
+        "app_label_id": "pork_bowl",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -304,19 +307,19 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
-            "level": 0,
-            "time": 0,
+            "price": 20,
+            "level": 2,
+            "time": 4.2,
             "cooker": 0,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [1],
+            "tags": [ 0, 3, 9 ],
             "conflicts": []
         },
         "links": null
     },
     {
         "app_id": 13,
-        "app_label_id": "",
+        "app_label_id": "fried_lampreys",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -328,7 +331,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 27,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -340,7 +343,7 @@
     },
     {
         "app_id": 14,
-        "app_label_id": "",
+        "app_label_id": "potato_croquettes",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -364,7 +367,7 @@
     },
     {
         "app_id": 15,
-        "app_label_id": "",
+        "app_label_id": "fried_cicada_sloughs",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -388,7 +391,7 @@
     },
     {
         "app_id": 16,
-        "app_label_id": "",
+        "app_label_id": "pork_trout_kebab",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -412,7 +415,7 @@
     },
     {
         "app_id": 17,
-        "app_label_id": "",
+        "app_label_id": "tonkotsu_ramen",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -436,7 +439,7 @@
     },
     {
         "app_id": 18,
-        "app_label_id": "",
+        "app_label_id": "imitation_bear_paw",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -460,7 +463,7 @@
     },
     {
         "app_id": 19,
-        "app_label_id": "",
+        "app_label_id": "mochi",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -484,13 +487,13 @@
     },
     {
         "app_id": 20,
-        "app_label_id": "",
+        "app_label_id": "lunar_dango",
         "game_id": null,
         "game_alias": [],
         "name": {
             "zh-hans": "",
             "zh-hant": "月光糰子",
-            "en": "Lunar Dangosa",
+            "en": "Lunar Dango",
             "ja": "",
             "ko": ""
         },
@@ -508,7 +511,7 @@
     },
     {
         "app_id": 21,
-        "app_label_id": "",
+        "app_label_id": "miso_tofu",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -532,7 +535,7 @@
     },
     {
         "app_id": 22,
-        "app_label_id": "",
+        "app_label_id": "deep_fried_tofu",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -556,7 +559,7 @@
     },
     {
         "app_id": 23,
-        "app_label_id": "",
+        "app_label_id": "udumbara_cake",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -580,7 +583,7 @@
     },
     {
         "app_id": 24,
-        "app_label_id": "",
+        "app_label_id": "vegetable_salad",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -604,7 +607,7 @@
     },
     {
         "app_id": 25,
-        "app_label_id": "",
+        "app_label_id": "scholars_ginkgo",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -628,7 +631,7 @@
     },
     {
         "app_id": 26,
-        "app_label_id": "",
+        "app_label_id": "pork_rice_ball",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -652,7 +655,7 @@
     },
     {
         "app_id": 27,
-        "app_label_id": "",
+        "app_label_id": "power_soup",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -676,7 +679,7 @@
     },
     {
         "app_id": 28,
-        "app_label_id": "",
+        "app_label_id": "pink_rice_ball",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -700,7 +703,7 @@
     },
     {
         "app_id": 29,
-        "app_label_id": "",
+        "app_label_id": "fried_pork_cutlet",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -724,7 +727,7 @@
     },
     {
         "app_id": 30,
-        "app_label_id": "",
+        "app_label_id": "carved_rose_salad",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -748,7 +751,7 @@
     },
     {
         "app_id": 31,
-        "app_label_id": "",
+        "app_label_id": "pork_stir_fry",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -772,7 +775,7 @@
     },
     {
         "app_id": 32,
-        "app_label_id": "",
+        "app_label_id": "falling_blossoms",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -796,7 +799,7 @@
     },
     {
         "app_id": 33,
-        "app_label_id": "",
+        "app_label_id": "shirayuki",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -820,7 +823,7 @@
     },
     {
         "app_id": 34,
-        "app_label_id": "",
+        "app_label_id": "peach_tapioca",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -844,7 +847,7 @@
     },
     {
         "app_id": 35,
-        "app_label_id": "",
+        "app_label_id": "hodgepodge",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -868,7 +871,7 @@
     },
     {
         "app_id": 36,
-        "app_label_id": "",
+        "app_label_id": "salmon_steak",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -892,7 +895,7 @@
     },
     {
         "app_id": 37,
-        "app_label_id": "",
+        "app_label_id": "pancakes_with_syrup",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -916,13 +919,13 @@
     },
     {
         "app_id": 38,
-        "app_label_id": "",
+        "app_label_id": "daimyos_feast",
         "game_id": null,
         "game_alias": [],
         "name": {
             "zh-hans": "",
             "zh-hant": "大奢宴",
-            "en": "Ddimyo's Feast",
+            "en": "Daimyo's Feast",
             "ja": "",
             "ko": ""
         },
@@ -940,7 +943,7 @@
     },
     {
         "app_id": 39,
-        "app_label_id": "",
+        "app_label_id": "peach_shrimp_salad",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -964,7 +967,7 @@
     },
     {
         "app_id": 40,
-        "app_label_id": "",
+        "app_label_id": "niten_ichiryu",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1001,7 +1004,7 @@
     },
     {
         "app_id": 41,
-        "app_label_id": "",
+        "app_label_id": "scones",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1025,7 +1028,7 @@
     },
     {
         "app_id": 42,
-        "app_label_id": "",
+        "app_label_id": "eggs_benedict",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1049,7 +1052,7 @@
     },
     {
         "app_id": 43,
-        "app_label_id": "",
+        "app_label_id": "classic_steak",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1073,7 +1076,7 @@
     },
     {
         "app_id": 44,
-        "app_label_id": "",
+        "app_label_id": "kabayaki_lampreys",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1097,7 +1100,7 @@
     },
     {
         "app_id": 45,
-        "app_label_id": "",
+        "app_label_id": "real_seafood_miso_soup",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1121,7 +1124,7 @@
     },
     {
         "app_id": 46,
-        "app_label_id": "",
+        "app_label_id": "tofu_stew",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1145,7 +1148,7 @@
     },
     {
         "app_id": 47,
-        "app_label_id": "",
+        "app_label_id": "dumplings",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1169,7 +1172,7 @@
     },
     {
         "app_id": 48,
-        "app_label_id": "",
+        "app_label_id": "italian_risotto",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1193,7 +1196,7 @@
     },
     {
         "app_id": 49,
-        "app_label_id": "",
+        "app_label_id": "sashimi_platter",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1217,7 +1220,7 @@
     },
     {
         "app_id": 50,
-        "app_label_id": "",
+        "app_label_id": "tangyuan",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1241,7 +1244,7 @@
     },
     {
         "app_id": 51,
-        "app_label_id": "",
+        "app_label_id": "cantonese_char_siu",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1265,7 +1268,7 @@
     },
     {
         "app_id": 52,
-        "app_label_id": "",
+        "app_label_id": "golden_ribs_soup",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1289,7 +1292,7 @@
     },
     {
         "app_id": 53,
-        "app_label_id": "",
+        "app_label_id": "ino_shika_chou",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1313,7 +1316,7 @@
     },
     {
         "app_id": 54,
-        "app_label_id": "",
+        "app_label_id": "rainbow_pan_fried_pork_buns",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1337,7 +1340,7 @@
     },
     {
         "app_id": 55,
-        "app_label_id": "",
+        "app_label_id": "beef_bowl",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1361,7 +1364,7 @@
     },
     {
         "app_id": 56,
-        "app_label_id": "",
+        "app_label_id": "creamy_vegetable_chowder",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1385,7 +1388,7 @@
     },
     {
         "app_id": 57,
-        "app_label_id": "",
+        "app_label_id": "pork_bamboo_shoots_stir_fry",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1409,7 +1412,7 @@
     },
     {
         "app_id": 58,
-        "app_label_id": "",
+        "app_label_id": "beef_wellington",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1433,7 +1436,7 @@
     },
     {
         "app_id": 59,
-        "app_label_id": "",
+        "app_label_id": "flowing_somen",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1457,7 +1460,7 @@
     },
     {
         "app_id": 60,
-        "app_label_id": "",
+        "app_label_id": "kaguya_hime",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1519,7 +1522,7 @@
     },
     {
         "app_id": 62,
-        "app_label_id": "",
+        "app_label_id": "hunters_casserole",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1543,7 +1546,7 @@
     },
     {
         "app_id": 63,
-        "app_label_id": "",
+        "app_label_id": "mapo_tofu",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1567,13 +1570,13 @@
     },
     {
         "app_id": 64,
-        "app_label_id": "",
+        "app_label_id": "steamed_egg_bamboo_shoots",
         "game_id": null,
         "game_alias": [],
         "name": {
             "zh-hans": "",
             "zh-hant": "竹筒蒸蛋",
-            "en": "Steamed Egg & Bamboo Shootsd",
+            "en": "Steamed Egg & Bamboo Shoots",
             "ja": "",
             "ko": ""
         },
@@ -1591,7 +1594,7 @@
     },
     {
         "app_id": 65,
-        "app_label_id": "",
+        "app_label_id": "sichuan_boiled_fish",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1615,7 +1618,7 @@
     },
     {
         "app_id": 66,
-        "app_label_id": "",
+        "app_label_id": "peach_yatsuhashi",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1639,7 +1642,7 @@
     },
     {
         "app_id": 67,
-        "app_label_id": "",
+        "app_label_id": "lunar_lover_biscuits",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1663,7 +1666,7 @@
     },
     {
         "app_id": 68,
-        "app_label_id": "",
+        "app_label_id": "fujis_lava",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1687,7 +1690,7 @@
     },
     {
         "app_id": 69,
-        "app_label_id": "",
+        "app_label_id": "hourgi_branch",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1724,7 +1727,7 @@
     },
     {
         "app_id": 70,
-        "app_label_id": "",
+        "app_label_id": "cubic_kedama_ice_cream",
         "game_id": 67,
         "game_alias": [],
         "name": {
@@ -1748,7 +1751,7 @@
     },
     {
         "app_id": 71,
-        "app_label_id": "",
+        "app_label_id": "cubic_kedama_volcanic_tofu",
         "game_id": 68,
         "game_alias": [],
         "name": {
@@ -1772,7 +1775,7 @@
     },
     {
         "app_id": 72,
-        "app_label_id": "",
+        "app_label_id": "scarlet_devil_cake",
         "game_id": 69,
         "game_alias": [],
         "name": {
@@ -1796,7 +1799,7 @@
     },
     {
         "app_id": 73,
-        "app_label_id": "",
+        "app_label_id": "unconscious_youkai_mousse",
         "game_id": 70,
         "game_alias": [],
         "name": {
@@ -1820,7 +1823,7 @@
     },
     {
         "app_id": 74,
-        "app_label_id": "",
+        "app_label_id": "pork_mushroom_stir_fry",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1844,7 +1847,7 @@
     },
     {
         "app_id": 75,
-        "app_label_id": "",
+        "app_label_id": "cream_of_mushroom_soup",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1868,7 +1871,7 @@
     },
     {
         "app_id": 76,
-        "app_label_id": "",
+        "app_label_id": "nigiri_sushi",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1892,7 +1895,7 @@
     },
     {
         "app_id": 77,
-        "app_label_id": "",
+        "app_label_id": "okonomiyaki",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1916,7 +1919,7 @@
     },
     {
         "app_id": 78,
-        "app_label_id": "",
+        "app_label_id": "pickles",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1940,7 +1943,7 @@
     },
     {
         "app_id": 79,
-        "app_label_id": "",
+        "app_label_id": "secret_savory_mushroom_hotpot",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1964,7 +1967,7 @@
     },
     {
         "app_id": 80,
-        "app_label_id": "",
+        "app_label_id": "deep_fried_shrimp_tempura",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -1988,7 +1991,7 @@
     },
     {
         "app_id": 81,
-        "app_label_id": "",
+        "app_label_id": "takoyaki",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -2012,7 +2015,7 @@
     },
     {
         "app_id": 82,
-        "app_label_id": "",
+        "app_label_id": "creamy_crab",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -2036,7 +2039,7 @@
     },
     {
         "app_id": 83,
-        "app_label_id": "",
+        "app_label_id": "ordinary_eat_me_cupcake",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -2060,7 +2063,7 @@
     },
     {
         "app_id": 84,
-        "app_label_id": "",
+        "app_label_id": "golden_crispy_fish_cakes",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -2084,7 +2087,7 @@
     },
     {
         "app_id": 85,
-        "app_label_id": "",
+        "app_label_id": "shrimp_stuffed_pumpkin",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -2108,7 +2111,7 @@
     },
     {
         "app_id": 86,
-        "app_label_id": "",
+        "app_label_id": "mushroom_maidens_tip_tap_pot",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -2132,7 +2135,7 @@
     },
     {
         "app_id": 87,
-        "app_label_id": "",
+        "app_label_id": "sea_urchin_sashimi",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -2156,7 +2159,7 @@
     },
     {
         "app_id": 88,
-        "app_label_id": "",
+        "app_label_id": "seven_colored_yokan",
         "game_id": null,
         "game_alias": [],
         "name": {
@@ -2180,7 +2183,7 @@
     },
     {
         "app_id": 89,
-        "app_label_id": "",
+        "app_label_id": "imitation_shirkodama",
         "game_id": null,
         "game_alias": [],
         "name": {
