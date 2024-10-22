@@ -111,7 +111,7 @@ export interface Links {
  */
 export interface Name {
     /**
-     * 簡體中文
+     * 简体中文
      */
     "zh-hans": string;
     /**
