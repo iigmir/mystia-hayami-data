@@ -163,9 +163,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
-            "level": 0,
-            "time": 0,
+            "price": 6,
+            "level": 1,
+            "time": 3,
             "cooker": 0,
             "ingredients": [ 10 ],
             "tags": [ -2, 2, 3, 9, 12 ],
@@ -211,9 +211,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
-            "level": 0,
-            "time": 0,
+            "price": 24,
+            "level": 1,
+            "time": 3,
             "cooker": 0,
             "ingredients": [ 5, 35 ],
             "tags": [ 2, 14, 24, 34 ],
@@ -355,7 +355,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 22,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -379,7 +379,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 19,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -403,7 +403,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 26,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -427,7 +427,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 60,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -451,7 +451,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 70,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -475,7 +475,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 30,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -499,7 +499,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 80,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -523,7 +523,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 21,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -547,7 +547,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 16,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -571,7 +571,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 78,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -595,7 +595,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 56,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -619,7 +619,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 60,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -643,7 +643,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 14,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -667,7 +667,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 34,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -691,7 +691,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 30,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -715,7 +715,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 25,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -739,7 +739,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 20,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -763,7 +763,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 15,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -787,7 +787,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 50,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -811,7 +811,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 98,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -835,7 +835,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 55,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -859,7 +859,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 40,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -883,7 +883,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 58,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -907,7 +907,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 22,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -931,7 +931,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 105,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -955,7 +955,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 25,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1016,7 +1016,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 8,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1040,7 +1040,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 35,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1064,7 +1064,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 60,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1088,7 +1088,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 42,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1112,7 +1112,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 55,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1136,7 +1136,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 19,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1160,7 +1160,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 35,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1184,7 +1184,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 70,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1208,7 +1208,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 88,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1232,7 +1232,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 35,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1256,7 +1256,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 70,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1280,7 +1280,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 65,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1304,7 +1304,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 78,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1328,7 +1328,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 128,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1352,7 +1352,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 20,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1376,7 +1376,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 20,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1400,7 +1400,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 25,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1424,7 +1424,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 150,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1448,7 +1448,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 40,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1472,7 +1472,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 65,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1534,7 +1534,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 66,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1558,7 +1558,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 32,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1582,7 +1582,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 40,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1606,7 +1606,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 68,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1630,7 +1630,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 55,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1654,7 +1654,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 66,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1678,7 +1678,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 125,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1739,7 +1739,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 75,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1763,7 +1763,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 85,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1787,7 +1787,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 60,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1811,7 +1811,7 @@
         },
         "dlc": "CORE",
         "data": {
-            "price": 0,
+            "price": 60,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1835,7 +1835,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 20,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1859,7 +1859,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 28,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1883,7 +1883,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 28,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1907,7 +1907,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 24,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1931,7 +1931,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 16,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1955,7 +1955,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 62,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -1979,7 +1979,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 22,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -2003,7 +2003,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 36,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -2027,7 +2027,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 88,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -2051,7 +2051,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 56,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -2075,7 +2075,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 40,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -2099,7 +2099,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 55,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -2123,7 +2123,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 112,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -2147,7 +2147,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 108,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -2171,7 +2171,7 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
+            "price": 92,
             "level": 0,
             "time": 0,
             "cooker": 0,
@@ -2195,12 +2195,12 @@
         },
         "dlc": "DLC1",
         "data": {
-            "price": 0,
-            "level": 0,
-            "time": 0,
+            "price": 120,
+            "level": 4,
+            "time": 7.2,
             "cooker": 0,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 3, 18, 25 ],
+            "tags": [ -3, 5, 8, 22, 24, 28, 29 ],
             "conflicts": []
         },
         "links": null
