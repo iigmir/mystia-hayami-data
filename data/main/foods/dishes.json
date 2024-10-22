@@ -1839,8 +1839,8 @@
             "level": 1,
             "time": 3.6,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 17, 1 ],
+            "tags": [ 0, 3, 6, 26 ],
             "conflicts": []
         },
         "links": null
@@ -1863,8 +1863,8 @@
             "level": 1,
             "time": 4.8,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 17, 6, 1004 ],
+            "tags": [ 3, 20, 26 ],
             "conflicts": []
         },
         "links": null
@@ -1887,8 +1887,8 @@
             "level": 1,
             "time": 3.6,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 13, 14 ],
+            "tags": [ 1, 7, 12, 16, 18, 25 ],
             "conflicts": []
         },
         "links": null
@@ -1911,8 +1911,8 @@
             "level": 2,
             "time": 3.6,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 30, 0, 9 ],
+            "tags": [ 12, 19, 20, 28 ],
             "conflicts": []
         },
         "links": null
@@ -1935,8 +1935,8 @@
             "level": 1,
             "time": 3.6,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 1000, 1003 ],
+            "tags": [ -2, 2, 8, 15, 28 ],
             "conflicts": []
         },
         "links": null
@@ -1959,8 +1959,8 @@
             "level": 3,
             "time": 5.4,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 18, 17, 27 ],
+            "tags": [ -3, 12, 16, 26, 30 ],
             "conflicts": []
         },
         "links": null
@@ -1983,9 +1983,9 @@
             "level": 1,
             "time": 3.6,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
-            "conflicts": []
+            "ingredients": [ 23, 30 ],
+            "tags": [ 6, 8 ],
+            "conflicts": [ 7 ]
         },
         "links": null
     },
@@ -2007,8 +2007,8 @@
             "level": 2,
             "time": 4.8,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 30, 10, 1001 ],
+            "tags": [ 1, 9, 19, 20, 28 ],
             "conflicts": []
         },
         "links": null
@@ -2031,8 +2031,8 @@
             "level": 3,
             "time": 72,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 1004, 1005 ],
+            "tags": [ -3, 4, 8, 11, 16, 17, 19, 20 ],
             "conflicts": []
         },
         "links": null
@@ -2055,8 +2055,8 @@
             "level": 2,
             "time": 4.8,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 0, 36, 1004 ],
+            "tags": [ 4, 17, 20, 25, 31 ],
             "conflicts": []
         },
         "links": null
@@ -2079,8 +2079,8 @@
             "level": 2,
             "time": 5.4,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 11, 30, 24 ],
+            "tags": [ 1, 6, 8, 23 ],
             "conflicts": []
         },
         "links": null
@@ -2103,8 +2103,8 @@
             "level": 2,
             "time": 5.4,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 8, 23, 5 ],
+            "tags": [ 1, 7, 9, 16, 17, 20, 30 ],
             "conflicts": []
         },
         "links": null
@@ -2127,8 +2127,8 @@
             "level": 4,
             "time": 8.4,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 17, 23, 1001, 35 ],
+            "tags": [ -3, 1, 6, 15, 16, 20, 22, 26, 34 ],
             "conflicts": []
         },
         "links": null
@@ -2151,8 +2151,8 @@
             "level": 4,
             "time": 4.8,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 1002, 27 ],
+            "tags": [ -3, 4, 11, 17, 20, 27, 28, 30 ],
             "conflicts": []
         },
         "links": null
@@ -2175,8 +2175,8 @@
             "level": 4,
             "time": 4.8,
             "cooker": null,
-            "ingredients": [],
-            "tags": [],
+            "ingredients": [ 10, 36, 27, 26 ],
+            "tags": [ -3, 4, 17, 20, 25, 27, 29, 31 ],
             "conflicts": []
         },
         "links": null
