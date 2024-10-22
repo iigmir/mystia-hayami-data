@@ -227,8 +227,8 @@
         "app_label_id": "",
         "game_id": 14,
         "name": {
-            "zh-hans": "鲔鱼",
-            "zh-hant": "鮪魚",
+            "zh-hans": "金枪鱼",
+            "zh-hant": "金槍魚",
             "en": "",
             "ja": "",
             "ko": ""
@@ -307,8 +307,8 @@
         "app_label_id": "",
         "game_id": 19,
         "name": {
-            "zh-hans": "极上鲔鱼",
-            "zh-hant": "極上鮪魚",
+            "zh-hans": "极上金枪鱼",
+            "zh-hant": "極上金槍魚",
             "en": "",
             "ja": "",
             "ko": ""
