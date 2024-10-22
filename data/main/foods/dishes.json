@@ -16,7 +16,7 @@
             "price": 8,
             "level": 1,
             "time": 3.6,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [
                 10
             ],
@@ -49,7 +49,7 @@
             "price": 22,
             "level": 2,
             "time": 4.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [
                 12
             ],
@@ -82,7 +82,7 @@
             "price": 50,
             "level": 3,
             "time": 7.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [
                 12,
                 7,
@@ -115,7 +115,7 @@
             "price": 21,
             "level": 2,
             "time": 3,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [
                 5,
                 9
@@ -142,7 +142,7 @@
             "price": 1,
             "level": 1,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -166,7 +166,7 @@
             "price": 6,
             "level": 1,
             "time": 3,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 10 ],
             "tags": [ -2, 2, 3, 9, 12 ],
             "conflicts": []
@@ -190,7 +190,7 @@
             "price": 30,
             "level": 2,
             "time": 4.8,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 11 ],
             "tags": [ 1, 15, 16, 28 ],
             "conflicts": []
@@ -214,7 +214,7 @@
             "price": 24,
             "level": 1,
             "time": 3,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 5, 35 ],
             "tags": [ 2, 14, 24, 34 ],
             "conflicts": []
@@ -238,7 +238,7 @@
             "price": 22,
             "level": 1,
             "time": 4.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 5 ],
             "tags": [ 2, 3, 7 ],
             "conflicts": []
@@ -262,7 +262,7 @@
             "price": 18,
             "level": 2,
             "time": 1.8,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 27, 0 ],
             "tags": [ -2, 7, 18 ],
             "conflicts": [ 0, 1, 6 ]
@@ -286,7 +286,7 @@
             "price": 18,
             "level": 1,
             "time": 3.6,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 17 ],
             "tags": [ -2, 2, 15, 22, 26, 33 ],
             "conflicts": []
@@ -310,7 +310,7 @@
             "price": 20,
             "level": 2,
             "time": 4.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [1],
             "tags": [ 0, 3, 9 ],
             "conflicts": []
@@ -334,7 +334,7 @@
             "price": 27,
             "level": 2,
             "time": 4.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 12 ],
             "tags": [ 1, 6, 19 ],
             "conflicts": [ 21 ]
@@ -358,7 +358,7 @@
             "price": 22,
             "level": 1,
             "time": 3.6,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [6],
             "tags": [ 2, 3, 6 ],
             "conflicts": [21]
@@ -382,7 +382,7 @@
             "price": 19,
             "level": 1,
             "time": 4.8,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [25],
             "tags": [-2,6,24],
             "conflicts": []
@@ -406,7 +406,7 @@
             "price": 26,
             "level": 2,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 11, 1 ],
             "tags": [ 0, 1, 3, 33 ],
             "conflicts": []
@@ -430,7 +430,7 @@
             "price": 60,
             "level": 3,
             "time": 4.8,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 1, 0, 10 ],
             "tags": [ 0, 3, 9, 15 ],
             "conflicts": []
@@ -454,7 +454,7 @@
             "price": 70,
             "level": 3,
             "time": 7.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 15, 28, 20 ],
             "tags": [ -3, 0, 1, 4, 10, 16, 23, 27 ],
             "conflicts": []
@@ -478,7 +478,7 @@
             "price": 30,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -502,7 +502,7 @@
             "price": 80,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -526,7 +526,7 @@
             "price": 21,
             "level": 2,
             "time": 4.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [5],
             "tags": [ 2, 3, 7, 12, 32 ],
             "conflicts": [6]
@@ -550,7 +550,7 @@
             "price": 16,
             "level": 1,
             "time": 4.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [5],
             "tags": [ -2, 2, 3, 6, 12 ],
             "conflicts": []
@@ -574,7 +574,7 @@
             "price": 78,
             "level": 3,
             "time": 4.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 26, 27 ],
             "tags": [ -3, 4, 5, 17, 20, 27, 29 ],
             "conflicts": [ 0, 1 ]
@@ -598,7 +598,7 @@
             "price": 56,
             "level": 3,
             "time": 3,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 6, 7, 8 ],
             "tags": [ 2, 7, 18, 21 ],
             "conflicts": [ 0, 1, 22 ]
@@ -622,7 +622,7 @@
             "price": 60,
             "level": 3,
             "time": 4.8,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 22, 24 ],
             "tags": [ 2, 14, 17, 25 ],
             "conflicts": [ 15 ]
@@ -646,7 +646,7 @@
             "price": 14,
             "level": 2,
             "time": 3.6,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 1 ],
             "tags": [ -2, 0, 3, 9, 12 ],
             "conflicts": []
@@ -670,7 +670,7 @@
             "price": 34,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 10, 4 ],
             "tags": [ 0, 10, 22, 23, 32 ],
             "conflicts": [ 28, 21 ]
@@ -694,7 +694,7 @@
             "price": 30,
             "level": 3,
             "time": 4.8,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 7, 11 ],
             "tags": [ 1, 2, 3, 9, 12, 22 ],
             "conflicts": []
@@ -718,7 +718,7 @@
             "price": 25,
             "level": 2,
             "time": 4.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [1],
             "tags": [ 0, 3, 6, 9 ],
             "conflicts": []
@@ -742,7 +742,7 @@
             "price": 20,
             "level": 1,
             "time": 3,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [9],
             "tags": [ 2, 7, 20, 21 ],
             "conflicts": [ 0, 22 ]
@@ -766,7 +766,7 @@
             "price": 15,
             "level": 1,
             "time": 4.8,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [1],
             "tags": [ -2, 0, 3, 6, 8, 14 ],
             "conflicts": []
@@ -790,7 +790,7 @@
             "price": 50,
             "level": 4,
             "time": 7.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 19 ],
             "tags": [ 1, 4, 11, 12, 18, 20, 28 ],
             "conflicts": [6]
@@ -814,7 +814,7 @@
             "price": 98,
             "level": 4,
             "time": 7.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 20, 12, 10 ],
             "tags": [ -3, 0, 1, 4, 12, 25 ],
             "conflicts": []
@@ -838,7 +838,7 @@
             "price": 55,
             "level": 2,
             "time": 4.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 21, 34, 27 ],
             "tags": [ 2, 17, 20, 21, 31, 32 ],
             "conflicts": []
@@ -862,7 +862,7 @@
             "price": 40,
             "level": 2,
             "time": 3,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 10, 5, 11 ],
             "tags": [ 0, 3, 16, 22 ],
             "conflicts": []
@@ -886,7 +886,7 @@
             "price": 58,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -910,7 +910,7 @@
             "price": 22,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -934,7 +934,7 @@
             "price": 105,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -958,7 +958,7 @@
             "price": 25,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -982,7 +982,7 @@
             "price": 90,
             "level": 4,
             "time": 10.8,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [
                 15,
                 4
@@ -1019,7 +1019,7 @@
             "price": 8,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1043,7 +1043,7 @@
             "price": 35,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1067,7 +1067,7 @@
             "price": 60,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1091,7 +1091,7 @@
             "price": 42,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1115,7 +1115,7 @@
             "price": 55,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1139,7 +1139,7 @@
             "price": 19,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1163,7 +1163,7 @@
             "price": 35,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1187,7 +1187,7 @@
             "price": 70,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1211,7 +1211,7 @@
             "price": 88,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1235,7 +1235,7 @@
             "price": 35,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1259,7 +1259,7 @@
             "price": 70,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1283,7 +1283,7 @@
             "price": 65,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1307,7 +1307,7 @@
             "price": 78,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1331,7 +1331,7 @@
             "price": 128,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1355,7 +1355,7 @@
             "price": 20,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1379,7 +1379,7 @@
             "price": 20,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1403,7 +1403,7 @@
             "price": 25,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1427,7 +1427,7 @@
             "price": 150,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1451,7 +1451,7 @@
             "price": 40,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1475,7 +1475,7 @@
             "price": 65,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1499,7 +1499,7 @@
             "price": 65,
             "level": 4,
             "time": 7.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [
                 30,
                 24,
@@ -1537,7 +1537,7 @@
             "price": 66,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1561,7 +1561,7 @@
             "price": 32,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1585,7 +1585,7 @@
             "price": 40,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1609,7 +1609,7 @@
             "price": 68,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1633,7 +1633,7 @@
             "price": 55,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1657,7 +1657,7 @@
             "price": 66,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1681,7 +1681,7 @@
             "price": 125,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1705,7 +1705,7 @@
             "price": 125,
             "level": 5,
             "time": 7.8,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [
                 31,
                 1,
@@ -1742,7 +1742,7 @@
             "price": 75,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1766,7 +1766,7 @@
             "price": 85,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1790,7 +1790,7 @@
             "price": 60,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1814,7 +1814,7 @@
             "price": 60,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1838,7 +1838,7 @@
             "price": 20,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1862,7 +1862,7 @@
             "price": 28,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1886,7 +1886,7 @@
             "price": 28,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1910,7 +1910,7 @@
             "price": 24,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1934,7 +1934,7 @@
             "price": 16,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1958,7 +1958,7 @@
             "price": 62,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -1982,7 +1982,7 @@
             "price": 22,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -2006,7 +2006,7 @@
             "price": 36,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -2030,7 +2030,7 @@
             "price": 88,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -2054,7 +2054,7 @@
             "price": 56,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -2078,7 +2078,7 @@
             "price": 40,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -2102,7 +2102,7 @@
             "price": 55,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -2126,7 +2126,7 @@
             "price": 112,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -2150,7 +2150,7 @@
             "price": 108,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -2174,7 +2174,7 @@
             "price": 92,
             "level": 0,
             "time": 0,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [],
             "tags": [],
             "conflicts": []
@@ -2198,7 +2198,7 @@
             "price": 120,
             "level": 4,
             "time": 7.2,
-            "cooker": 0,
+            "cooker": null,
             "ingredients": [ 3, 18, 25 ],
             "tags": [ -3, 5, 8, 22, 24, 28, 29 ],
             "conflicts": []
