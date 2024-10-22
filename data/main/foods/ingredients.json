@@ -68,8 +68,8 @@
         "app_label_id": "boar_meat",
         "game_id": 4,
         "name": {
-            "zh-hans": "山猪肉",
-            "zh-hant": "山豬肉",
+            "zh-hans": "野猪肉",
+            "zh-hant": "野豬肉",
             "en": "Boar Meat",
             "ja": "",
             "ko": ""
