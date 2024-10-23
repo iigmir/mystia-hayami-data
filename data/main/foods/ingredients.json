@@ -12,7 +12,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 4,
+            "lavel": 1,
+            "tags": [ 18 ]
         }
     },
     {
@@ -28,7 +30,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 10,
+            "lavel": 1,
+            "tags": [ 0 ]
         }
     },
     {
@@ -44,7 +48,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 15,
+            "lavel": 2,
+            "tags": [ 0 ]
         }
     },
     {
@@ -60,7 +66,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 20,
+            "lavel": 2,
+            "tags": [ 0 ]
         }
     },
     {
@@ -76,7 +84,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 25,
+            "lavel": 3,
+            "tags": [ 0 ]
         }
     },
     {
@@ -92,7 +102,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 8,
+            "lavel": 1,
+            "tags": [ 2, 3, 7 ]
         }
     },
     {
@@ -108,7 +120,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 10,
+            "lavel": 2,
+            "tags": [ 2, 3 ]
         }
     },
     {
@@ -123,7 +137,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 12,
+            "lavel": 2,
+            "tags": [ 2, 16 ]
         }
     },
     {
@@ -139,7 +155,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 14,
+            "lavel": 2,
+            "tags": [ 9, 2 ]
         }
     },
     {
@@ -155,7 +173,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 16,
+            "lavel": 2,
+            "tags": [ 2, 8 ]
         }
     },
     {
@@ -171,7 +191,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 3,
+            "lavel": 1,
+            "tags": [ 16, 2 ]
         }
     },
     {
@@ -187,7 +209,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 8,
+            "lavel": 1,
+            "tags": [ 16, 1 ]
         }
     },
     {
@@ -203,7 +227,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 14,
+            "lavel": 2,
+            "tags": [ 1, 16, 4 ]
         }
     },
     {
@@ -219,6 +245,8 @@
         },
         "dlc": "CORE",
         "data": {
+            "price": 24,
+            "lavel": 3,
             "tags": []
         }
     },
@@ -235,7 +263,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 30,
+            "lavel": 3,
+            "tags": [ 1, 16, 4 ]
         }
     },
     {
@@ -251,7 +281,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 35,
+            "lavel": 4,
+            "tags": [ 0, 5, 10 ]
         }
     },
     {
@@ -267,7 +299,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 40,
+            "lavel": 5,
+            "tags": [ 0, 5, 4 ]
         }
     },
     {
@@ -283,7 +317,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 18,
+            "lavel": 3,
+            "tags": [ 2, 16, 26 ]
         }
     },
     {
@@ -299,7 +335,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 50,
+            "lavel": 5,
+            "tags": [ 2, 5, 10, 16, 26, 4 ]
         }
     },
     {
@@ -315,7 +353,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 34,
+            "lavel": 5,
+            "tags": [ 1, 11, 5, 16, 4 ]
         }
     },
     {
@@ -331,7 +371,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 42,
+            "lavel": 5,
+            "tags": [ 1, 11, 16 ]
         }
     },
     {
@@ -347,7 +389,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 10,
+            "lavel": 3,
+            "tags": [ 31, 17 ]
         }
     },
     {
@@ -363,7 +407,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 7,
+            "lavel": 2,
+            "tags": [ 20 ]
         }
     },
     {
@@ -379,7 +425,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 30,
+            "lavel": 2,
+            "tags": [ 1, 16 ]
         }
     },
     {
@@ -395,7 +443,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 15,
+            "lavel": 2,
+            "tags": [ 17 ]
         }
     },
     {
@@ -411,7 +461,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 5,
+            "lavel": 1,
+            "tags": [ 24 ]
         }
     },
     {
@@ -427,7 +479,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 70,
+            "lavel": 5,
+            "tags": [ 5, 29, 27, 4 ]
         }
     },
     {
@@ -443,7 +497,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 10,
+            "lavel": 1,
+            "tags": [ 7 ]
         }
     },
     {
@@ -459,7 +515,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 0,
+            "lavel": 0,
+            "tags": [ 2, 7 ]
         }
     },
     {
@@ -475,7 +533,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 8,
+            "lavel": 2,
+            "tags": [ 6 ]
         }
     },
     {
@@ -491,7 +551,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 10,
+            "lavel": 2,
+            "tags": [ 9 ]
         }
     },
     {
@@ -507,7 +569,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 15,
+            "lavel": 3,
+            "tags": [ 20 ]
         }
     },
     {
@@ -523,6 +587,8 @@
         },
         "dlc": "CORE",
         "data": {
+            "price": 15,
+            "lavel": 3,
             "tags": []
         }
     },
@@ -539,7 +605,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 70,
+            "lavel": 5,
+            "tags": [ 27, 7, 29, 25 ]
         }
     },
     {
@@ -555,7 +623,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 2,
+            "lavel": 1,
+            "tags": [ 21 ]
         }
     },
     {
@@ -571,7 +641,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 2,
+            "lavel": 1,
+            "tags": [ 34 ]
         }
     },
     {
@@ -587,7 +659,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 5,
+            "lavel": 1,
+            "tags": [ 31, 17 ]
         }
     },
     {
@@ -603,7 +677,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 7,
+            "lavel": 1,
+            "tags": [ 3, 2, 7 ]
         }
     },
     {
@@ -619,7 +695,9 @@
         },
         "dlc": "DLC1",
         "data": {
-            "tags": []
+            "price": 12,
+            "lavel": 2,
+            "tags": [ 1, 16, 11 ]
         }
     },
     {
@@ -635,7 +713,9 @@
         },
         "dlc": "DLC1",
         "data": {
-            "tags": []
+            "price": 18,
+            "lavel": 3,
+            "tags": [ 1, 4, 5, 16, 11 ]
         }
     },
     {
@@ -651,7 +731,9 @@
         },
         "dlc": "DLC1",
         "data": {
-            "tags": []
+            "price": 3,
+            "lavel": 1,
+            "tags": [ 15 ]
         }
     },
     {
@@ -667,7 +749,9 @@
         },
         "dlc": "DLC1",
         "data": {
-            "tags": []
+            "price": 0,
+            "lavel": 0,
+            "tags": [ 3, 17, 13 ]
         }
     },
     {
@@ -683,7 +767,9 @@
         },
         "dlc": "DLC1",
         "data": {
-            "tags": []
+            "price": 0,
+            "lavel": 0,
+            "tags": [ 1, 4, 16 ]
         }
     },
     {
@@ -699,7 +785,9 @@
         },
         "dlc": "CORE",
         "data": {
-            "tags": []
+            "price": 0,
+            "lavel": 0,
+            "tags": [ 25, 4, 5, 7, 29 ]
         }
     }
 ]
