@@ -38,9 +38,6 @@
         "game_id": "18",
         "game_alias": [],
         "name": {
-            "avatar": [
-                "本体/04-01.png"
-            ],
             "zh-hans": "本居小铃",
             "zh-hant": "本居小鈴",
             "en": "Kosuzu Motoori",
@@ -49,6 +46,9 @@
         },
         "dlc": "CORE",
         "data": {
+            "avatar": [
+                "本体/04-01.png"
+            ],
             "revenue": 0.05,
             "moving": 1,
             "working": 3,

@@ -1299,6 +1299,7 @@
         },
         "dlc": "CORE",
         "data": {
+            "avatar": [],
             "likes": [
                 1,
                 -20,
@@ -1349,6 +1350,7 @@
         },
         "dlc": "CORE",
         "data": {
+            "avatar": [],
             "likes": [
                 21,
                 17,
@@ -1397,6 +1399,7 @@
         },
         "dlc": "CORE",
         "data": {
+            "avatar": [],
             "likes": [
                 34,
                 1,
