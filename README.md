@@ -20,6 +20,6 @@ Aimed to build structured data of [*Touhou Mystia Izakaya*](https://store.steamp
 
 ## Licence
 
-Files under the `avatar` drawn directory by [二色幽紫蝶](https://x.com/youziKK), the original developer of *Touhou Mystia Izakaya*, are used are under fair use to show the relationship between structured data and avatars.
+Files under the `avatar` directory drawn by [二色幽紫蝶](https://x.com/youziKK), the original developer of *Touhou Mystia Izakaya*, are used are under fair use to show the relationship between structured data and avatars.
 
 Files under the `data` directory belong to iigmir, who licence them under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
