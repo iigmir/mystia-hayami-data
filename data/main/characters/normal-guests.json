@@ -401,12 +401,12 @@
     },
     {
         "app_id": 13,
-        "app_label_id": null,
+        "app_label_id": "goblin",
         "game_id": "12",
         "name": {
             "zh-hans": "地精",
             "zh-hant": "地精",
-            "en": "???",
+            "en": "Goblin",
             "ja": "???",
             "ko": "???"
         },
