@@ -3028,5 +3028,48 @@
             "conflicts": []
         },
         "links": null
+    },
+    {
+        "app_id": 90,
+        "app_label_id": "buddha_jumps_over_the_wall",
+        "game_id": null,
+        "game_alias": [],
+        "name": {
+            "zh-hans": "",
+            "zh-hant": "幻想佛跳牆",
+            "en": "Buddha Jumps Over The Wall",
+            "ja": "",
+            "ko": ""
+        },
+        "dlc": "DLC1",
+        "data": {
+            "price": 160,
+            "level": 4,
+            "time": 10.8,
+            "cooker": null,
+            "ingredients": [
+                16,
+                19,
+                15,
+                20,
+                18
+            ],
+            "tags": [
+                -3,
+                0,
+                1,
+                4,
+                5,
+                10,
+                14,
+                20,
+                23,
+                25,
+                26,
+                30
+            ],
+            "conflicts": []
+        },
+        "links": null
     }
 ]
