@@ -14,8 +14,7 @@ Aimed to build structured data of [*Touhou Mystia Izakaya*](https://store.steamp
 ## Todo
 
 1. `data/main/characters/normal-guests.json`: fill names in `ja` and `ko`.
-2. `data/main/characters/rare-guests.json`: fill `thwiki`.
-3. Fill more info after bought the other DLCs.
+2. Fill more info after buying other DLCs.
 4. Finish `data/interface`.
 
 ## Licence
