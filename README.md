@@ -9,7 +9,7 @@ Aimed to build structured data of [*Touhou Mystia Izakaya*](https://store.steamp
 
 ## Known issues
 
-1. `data/main/foods/dishes.json` is empty because I currently have no way to check them with confident.
+1. I currently have no way to check `game_id` in `data/main/foods/dishes.json` with confident.
 
 ## Todo
 
