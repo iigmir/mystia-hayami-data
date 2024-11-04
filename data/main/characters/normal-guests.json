@@ -402,10 +402,10 @@
     {
         "app_id": 13,
         "app_label_id": null,
-        "game_id": null,
+        "game_id": "12",
         "name": {
-            "zh-hans": "???",
-            "zh-hant": "???",
+            "zh-hans": "地精",
+            "zh-hant": "地精",
             "en": "???",
             "ja": "???",
             "ko": "???"
@@ -413,8 +413,19 @@
         "dlc": "CORE",
         "data": {
             "avatar": [],
-            "likes": [],
-            "drinks": [],
+            "likes": [
+                21,
+                4,
+                6,
+                10,
+                22,
+                23,
+                -20
+            ],
+            "drinks": [
+                6,
+                8
+            ],
             "visits": []
         }
     },
