@@ -1,0 +1,64 @@
+{
+    "dishes": {
+        "api": "data/main/foods/dishes.json",
+        "save": [
+            "storagePartial.recipes",
+            "storagePartialDLC.DLC1.recipes"
+        ],
+        "data": {
+            "cookingCount": "albumPartialDLC.cookingCount"
+        }
+    },
+    "beverages": {
+        "api": "data/main/foods/beverages.json",
+        "save": [
+            "storagePartial.beverages",
+            "storagePartialDLC.DLC1.beverages",
+            "albumPartial.bevs",
+            "albumPartialDLC.DLC1.bevs"
+        ]
+    },
+    "ingredients": {
+        "api": "data/main/foods/ingredients.json",
+        "save": [
+            "storagePartial.ingredients",
+            "storagePartialDLC.DLC1.ingredients",
+            "albumPartial.ings",
+            "albumPartialDLC.DLC1.ings"
+        ]
+    },
+    "cookers": {
+        "save": [
+            "storagePartial.cookers",
+            "storagePartialDLC.DLC1.cookers",
+            "albumPartial.cookers",
+            "albumPartialDLC.DLC1.cookers"
+        ]
+    },
+    "items": {
+        "save": [
+            "storagePartial.items",
+            "storagePartialDLC.DLC1.items",
+            "albumPartial.items",
+            "albumPartialDLC.DLC1.items"
+        ]
+    },
+    "partners": {
+        "api": "data/main/characters/partners.json",
+        "save": "storagePartial.unlockedPartners"
+    },
+    "normal_guests": {
+        "api": "data/main/characters/normal-guests.json",
+        "save": [
+            "albumPartial.nGuests",
+            "albumPartialDLC.DLC1.nGuests"
+        ]
+    },
+    "rare_guests": {
+        "api": "data/main/characters/rare-guests.json",
+        "save": [
+            "albumPartial.specialSkinSelection",
+            "albumPartialDLC.DLC1.specialSkinSelection"
+        ]
+    }
+}
